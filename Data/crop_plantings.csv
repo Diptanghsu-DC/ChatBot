@@ -1,0 +1,1511 @@
+Location,Crop,Plant_start_date,Plant_end_date,Harvest_start_date,Harvest_end_date
+Albania,Wheat,16-Oct,15-Dec,01-May,30-Jun
+Albania,Maize,16-Apr,16-Jun,16-Aug,31-Oct
+Albania,Pulses,16-Apr,26-Jun,16-Jul,31-Aug
+Albania,Other,16-Oct,06-Dec,14-Feb,15-Apr
+Albania,Other,16-Apr,17-May,17-Aug,15-Oct
+Albania,Other,15-Feb,16-Mar,01-Sep,31-Oct
+Albania,Potatoes,15-Feb,16-Apr,17-May,14-Sep
+Albania,Multiple,01-Nov,30-Apr,22-May,31-Oct
+Algeria,Wheat,11-Oct,20-Jan,10-Jun,21-Aug
+Algeria,Barley,11-Oct,20-Jan,11-Jun,21-Jul
+Algeria,Rice,13-Mar,22-Jun,11-Sep,21-Oct
+Algeria,Sorghum,11-Oct,20-Jan,11-Jun,21-Aug
+Algeria,Sugarbeets,10-Feb,22-Mar,12-Jul,21-Aug
+Angola,Wheat,01-May,31-May,01-Oct,31-Oct
+Angola,Maize,01-Sep,15-Nov,01-Mar,30-Apr
+Angola,Rice,11-Oct,21-Dec,12-Mar,21-May
+Angola,Potatoes,11-Aug,20-Sep,10-Jan,21-May
+Angola,Millet,01-Nov,31-Dec,01-May,30-Jun
+Angola,Sorghum,01-Nov,16-Jan,01-May,30-Jun
+Argentina,Barley,12-Jun,20-Sep,10-Nov,19-Jan
+Argentina,Millet,11-Sep,15-Dec,15-Dec,21-May
+Armenia,Wheat,01-Aug,31-Oct,01-May,31-Jul
+Armenia,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Azerbaijan,Multiple,01-Nov,31-Dec,01-Jun,31-Jul
+Azerbaijan,Multiple,01-Mar,30-Apr,01-Jul,31-Aug
+Azerbaijan,Cotton,01-Apr,30-Apr,01-Sep,31-Oct
+Azerbaijan,Potatoes,01-Apr,31-May,01-Aug,30-Sep
+Azerbaijan,Potatoes,01-Feb,31-Mar,01-Jun,31-Jul
+Bangladesh,Wheat,11-Nov,11-Jan,22-Mar,30-Apr
+Bangladesh,Sorghum,12-May,10-Oct,20-Nov,31-Dec
+Bangladesh,Potatoes,01-Oct,31-Dec,21-Mar,21-May
+Belarus,Multiple,15-Aug,31-Oct,01-Jul,15-Aug
+Belarus,Rye,15-Aug,20-Sep,06-Jul,15-Aug
+Belarus,Multiple,01-Apr,30-Jun,01-Jul,30-Sep
+Belarus,Barley,01-Apr,31-May,06-Aug,05-Oct
+Benin,Millet,01-May,31-Jul,01-Oct,30-Nov
+Benin,Maize,01-Mar,30-Apr,01-Aug,30-Sep
+Benin,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Benin,Sorghum,01-May,31-Jul,01-Oct,30-Nov
+Benin,Rice,01-Apr,31-May,01-Aug,30-Sep
+Benin,Rice,01-May,31-Jul,01-Nov,31-Dec
+Benin,Cassava,01-May,30-Jun,01-Dec,31-Jan
+Benin,Yams,01-Feb,31-Mar,01-Jul,31-Jan
+Bolivia,Wheat,11-Nov,20-Dec,11-Apr,21-Jun
+Bolivia,Barley,11-Oct,20-Dec,12-Mar,21-May
+Bolivia,Maize,11-Sep,21-Nov,11-Mar,21-May
+Bolivia,Rice,01-Nov,30-Nov,11-Mar,21-May
+Bolivia,Soybeans,01-Nov,30-Nov,11-Apr,21-May
+Bolivia,Potatoes,11-Aug,21-Nov,11-Mar,20-May
+Bolivia,Sweet.Potatoes,01-Dec,31-Dec,12-May,20-Aug
+Botswana,Wheat,01-May,31-May,01-Oct,31-Oct
+Botswana,Maize,15-Nov,31-Jan,16-Apr,15-Jun
+Botswana,Millet,10-Nov,21-Dec,11-May,20-Jun
+Botswana,Sorghum,01-Dec,31-Jan,01-May,30-Jun
+Brazil,Sorghum,11-Oct,22-Mar,12-Apr,21-Aug
+Brazil,Barley,11-May,21-Jul,11-Oct,21-Dec
+Burkina Faso,Millet,01-May,31-Jul,01-Sep,31-Dec
+Burkina Faso,Maize,01-Apr,30-Jun,01-Aug,30-Nov
+Burkina Faso,Sorghum,01-May,31-Jul,01-Sep,31-Dec
+Burkina Faso,Rice,01-Dec,31-Dec,01-Mar,30-Apr
+Burundi,Pulses,01-Sep,31-Oct,01-Dec,31-Jan
+Burundi,Pulses,01-Feb,31-Mar,01-May,30-Jun
+Burundi,Maize,01-Sep,31-Oct,01-Jan,28-Feb
+Burundi,Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Burundi,Sorghum,01-Sep,31-Oct,01-Jan,28-Feb
+Burundi,Sorghum,01-Feb,31-Mar,01-Jun,31-Jul
+Cambodia,Rice,01-Jun,16-Oct,01-Dec,28-Feb
+Cambodia,Rice,01-Nov,31-Jan,01-Mar,30-Apr
+Cambodia,Maize,01-May,30-Jun,01-Sep,31-Oct
+Cameroon,Millet,01-May,31-Jul,01-Sep,30-Nov
+Cameroon,Maize,01-Mar,30-Jun,01-Jul,31-Oct
+Cameroon,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Cameroon,Sorghum,01-May,31-Jul,01-Sep,30-Nov
+Cameroon,Cassava,01-May,30-Jun,01-Dec,31-Jan
+Cameroon,Yams,01-Feb,31-Mar,01-Jul,31-Jan
+Cameroon,Rice,01-May,31-Jul,01-Nov,31-Dec
+Cape Verde,Maize,01-Jul,31-Aug,01-Oct,31-Dec
+Cape Verde,Pulses,01-Jul,31-Aug,01-Oct,31-Dec
+Central African Republic,Millet,01-Jun,31-Jul,01-Oct,15-Nov
+Central African Republic (South),Maize,16-Mar,31-Mar,01-Jul,31-Aug
+Central African Republic (South),Maize,01-Aug,15-Sep,01-Dec,31-Dec
+Central African Republic,Sorghum,01-Jun,30-Jun,11-Oct,15-Nov
+Central African Republic,Rice,01-May,31-Aug,15-Nov,31-Dec
+Central African Republic,Cassava,01-May,30-Jun,01-Dec,31-Jan
+Central African Republic,Yams,01-Feb,31-Mar,01-Jul,31-Jan
+Chad,Millet,01-May,31-Jul,01-Sep,31-Oct
+Chad,Maize,01-Jun,31-Jul,01-Sep,31-Oct
+Chad,Sorghum,01-Jun,31-Jul,01-Sep,30-Nov
+Chad,Rice,01-Jun,31-Jul,01-Aug,30-Nov
+Chile,Wheat,11-Apr,20-Aug,10-Dec,19-Feb
+Chile,Barley,11-Jun,20-Oct,10-Dec,19-Feb
+Chile,Maize,10-Sep,19-Dec,09-Feb,20-May
+Chile,Rice,11-Oct,20-Dec,12-Mar,11-May
+Chile,Sugarbeets,16-Aug,20-Oct,11-Mar,16-Aug
+Colombia,Wheat,09-Feb,20-Apr,10-Jun,20-Sep
+Colombia,Barley,10-Jan,21-May,11-Jun,20-Sep
+Colombia,Maize,09-Feb,21-Apr,01-Aug,30-Sep
+Colombia,Rice,09-Feb,22-Mar,11-Aug,20-Oct
+Colombia,Sorghum,10-Jan,21-Apr,12-May,19-Aug
+Colombia,Soybeans,11-Aug,20-Sep,11-Dec,19-Feb
+Congo,Maize,01-Aug,30-Nov,01-Dec,28-Feb
+Congo,Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Congo,Cassava,01-Apr,31-Aug,01-Sep,31-Mar
+Congo,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+Congo Dem. Rep.,Millet,01-Apr,30-Jun,01-Sep,30-Nov
+Congo Dem. Rep. (North),Maize,01-Jun,31-Jul,01-Oct,30-Nov
+Congo Dem. Rep. (North),Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Congo Dem. Rep. (Centre),Maize,01-Jul,30-Sep,01-Nov,31-Jan
+Congo Dem. Rep. (Centre),Maize,01-Nov,31-Jan,01-Mar,31-May
+Congo Dem. Rep. (South),Maize,01-Sep,31-Oct,01-Jan,28-Feb
+Congo Dem. Rep. (South),Maize,01-Jan,28-Feb,01-May,30-Jun
+Congo Dem. Rep. (Extr-South),Maize,01-Nov,31-Dec,01-Mar,31-May
+Congo Dem. Rep.,Sorghum,01-Apr,30-Jun,01-Sep,30-Nov
+Congo Dem. Rep. (North),Rice,01-Jul,31-Aug,01-Nov,30-Nov
+Congo Dem. Rep. (South),Rice,01-Dec,31-Jan,01-May,31-May
+Congo Dem. Rep. (North),Cassava,01-Apr,31-Aug,01-Sep,31-Mar
+Congo Dem. Rep. (South),Cassava,01-Oct,28-Feb,01-Mar,30-Sep
+Congo Dem. Rep.,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+Costa Rica,Maize,01-Apr,31-May,01-Aug,30-Sep
+Costa Rica,Maize,01-Aug,30-Sep,01-Nov,31-Jan
+Costa Rica,Sorghum,01-Sep,20-Dec,01-Apr,20-Apr
+Costa Rica,Rice,01-Apr,31-May,01-Aug,30-Sep
+Costa Rica,Rice,01-Aug,30-Sep,01-Nov,31-Jan
+Cuba,Maize,01-Jun,16-Sep,16-Sep,31-Dec
+Cuba,Maize,01-Nov,31-Dec,01-Mar,30-Apr
+Cuba,Rice,01-Mar,12-Jul,12-Jul,31-Dec
+Cuba,Rice,01-Dec,28-Feb,01-Mar,31-Jul
+Cuba,Sweet.Potatoes,11-Jun,21-Aug,11-Oct,19-Jan
+Cuba,Potatoes,01-Nov,31-Dec,01-Feb,30-Apr
+Cyprus,Wheat,09-Nov,31-Dec,01-Jun,30-Jun
+Cyprus,Barley,11-Oct,20-Nov,12-May,30-Jun
+Cyprus,Potatoes,10-Dec,20-Feb,01-Apr,10-Jun
+Dominican Republic,Maize,01-Mar,31-May,01-Jul,31-Aug
+Dominican Republic,Maize,01-Sep,31-Oct,01-Jan,28-Feb
+Dominican Republic,Maize,01-Dec,31-Jan,01-Apr,31-May
+Dominican Republic,Sorghum,01-Mar,31-May,01-Jul,31-Aug
+Dominican Republic,Sorghum,01-Sep,31-Oct,01-Jan,28-Feb
+Dominican Republic,Sorghum,01-Dec,31-Jan,01-Apr,31-May
+Dominican Republic,Rice,01-Dec,31-Mar,01-May,31-Aug
+Dominican Republic,Rice,01-Jul,30-Sep,01-Dec,31-Jan
+North Korea,Wheat,01-Oct,10-Nov,01-Jun,30-Jun
+North Korea,Barley,01-Nov,30-Nov,11-Jun,21-Jul
+North Korea,Maize,01-Apr,11-May,21-Aug,10-Oct
+North Korea,Rice,11-Apr,11-May,11-Sep,20-Oct
+North Korea,Millet,01-Jun,30-Jun,21-Sep,20-Oct
+North Korea,Sorghum,01-Apr,31-May,11-Sep,20-Oct
+North Korea,Potatoes,01-Mar,11-Apr,21-Jun,21-Jul
+North Korea,Sweet.Potatoes,12-Mar,20-Apr,11-Aug,20-Sep
+North Korea (central bowl),Potatoes,01-Mar,31-Mar,01-Jun,31-Jul
+North Korea (central bowl),Rice,01-Mar,31-Mar,01-Sep,30-Sep
+North Korea (central bowl),Maize,01-Mar,31-Mar,01-Sep,30-Sep
+North Korea (central bowl),Sweet.Potatoes,01-May,31-May,01-Sep,31-Oct
+North Korea (central bowl),Soybeans,01-Jun,30-Jun,01-Sep,30-Sep
+North Korea (central bowl),Potatoes,01-May,15-Jun,15-Sep,31-Oct
+Timor Leste,Maize,01-Nov,31-Dec,01-Feb,30-Apr
+Timor Leste,Maize,01-May,31-Jul,01-Sep,30-Nov
+Timor Leste,Rice,01-Dec,28-Feb,01-May,31-Jul
+Timor Leste,Rice,01-Apr,30-Jun,01-Aug,30-Nov
+Ecuador,Wheat,11-Jan,21-Apr,11-Jun,20-Sep
+Ecuador,Barley,11-Oct,31-Mar,01-Apr,20-Sep
+Ecuador,Maize,11-Sep,21-Dec,21-Jun,11-Sep
+Ecuador,Rice,11-Oct,21-Feb,21-Apr,21-Jul
+Egypt,Wheat,01-Nov,30-Nov,01-May,10-Jun
+Egypt,Barley,11-Nov,20-Dec,10-Apr,21-May
+Egypt,Maize,22-Apr,22-May,10-Oct,19-Nov
+Egypt,Rice,22-Apr,12-Jul,10-Oct,19-Nov
+Egypt,Millet,12-Apr,22-Jun,11-Aug,20-Oct
+El Salvador,Maize,01-May,30-Jun,01-Aug,30-Nov
+El Salvador,Maize,01-Sep,30-Sep,01-Jan,28-Feb
+El Salvador,Maize,01-Dec,31-Dec,01-Feb,28-Feb
+El Salvador,Sorghum,01-Jun,31-Jul,01-Dec,14-Feb
+El Salvador,Rice,01-May,30-Jun,01-Nov,31-Jan
+El Salvador,Rice,01-Jan,28-Feb,01-Mar,30-Apr
+El Salvador,Pulses,01-May,31-May,01-Aug,31-Aug
+El Salvador,Pulses,01-Aug,31-Aug,01-Dec,31-Dec
+Eritrea,Wheat,01-Jul,31-Jul,21-Nov,31-Dec
+Eritrea,Maize,01-Jun,31-Jul,01-Nov,15-Dec
+Eritrea,Millet,01-Jun,31-Jul,01-Nov,31-Dec
+Eritrea,Sorghum,01-Jun,31-Jul,01-Nov,31-Dec
+Eritrea,Barley,01-Jun,20-Aug,10-Nov,31-Dec
+Estonia,Multiple,15-Aug,31-Oct,01-Jul,15-Aug
+Estonia,Wheat,22-Aug,11-Oct,11-Jul,22-Aug
+Estonia,Multiple,01-Apr,31-May,06-Aug,04-Oct
+Ethiopia,Wheat,01-May,30-Jun,01-Nov,31-Dec
+Ethiopia,Maize,01-Mar,23-May,01-Oct,11-Dec
+Ethiopia,Other,01-May,30-Jun,01-Nov,31-Dec
+Ethiopia,Sorghum,01-Mar,22-May,01-Oct,11-Dec
+Ethiopia,Millet,01-May,30-Jun,01-Nov,20-Jan
+Ethiopia,Oats,12-Apr,31-Aug,01-Oct,31-Jan
+Ethiopia,Barley,01-May,30-Jun,01-Nov,31-Dec
+Ethiopia,Multiple,01-Feb,31-Mar,01-May,30-Jun
+French Guiana,Maize,11-Jan,21-Mar,12-Apr,10-Jun
+French Guiana,Rice,10-Nov,30-Apr,01-May,20-Oct
+Gabon,Maize,01-Sep,31-Oct,01-Dec,31-Jan
+Gabon,Maize,01-Jan,28-Feb,01-May,30-Jun
+Gabon,Cassava,01-Apr,31-Aug,01-Sep,31-Mar
+Gabon,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+The Gambia,Millet,01-Jun,31-Jul,01-Oct,14-Nov
+The Gambia,Maize,01-May,31-Jul,01-Sep,31-Oct
+The Gambia,Sorghum,01-Jun,31-Jul,01-Oct,14-Nov
+The Gambia,Rice,01-Jun,31-Jul,01-Oct,30-Nov
+The Gambia,Groundnuts,01-Jun,31-Jul,01-Nov,28-Feb
+Georgia,Wheat,15-Aug,31-Oct,01-Jul,15-Aug
+Georgia,Maize,01-Apr,30-Jun,01-Aug,30-Sep
+Ghana,Millet,01-May,31-Jul,01-Oct,30-Nov
+Ghana (South),Maize,01-Mar,30-Apr,01-Aug,30-Sep
+Ghana (North),Maize,01-Jun,30-Jun,01-Aug,31-Oct
+Ghana,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Ghana,Sorghum,01-May,31-Jul,01-Oct,30-Nov
+Ghana (South),Rice,01-Apr,31-May,01-Sep,31-Oct
+Ghana (North),Rice,01-May,31-Jul,01-Oct,31-Dec
+Ghana,Cassava,01-Mar,31-May,01-Jan,30-Jun
+Ghana,Yams,01-Feb,31-Mar,01-Aug,31-Dec
+Guatemala,Maize,01-Apr,31-May,01-Aug,30-Nov
+Guatemala,Maize,01-Aug,30-Sep,01-Nov,28-Feb
+Guatemala,Wheat,11-Apr,21-Jun,10-Sep,20-Nov
+Guatemala,Sorghum,01-Apr,31-May,01-Aug,30-Nov
+Guatemala,Sorghum,01-Aug,30-Sep,01-Nov,28-Feb
+Guatemala,Rice,01-Apr,30-Jun,01-Sep,31-Oct
+Guatemala,Potatoes,01-Jun,30-Jun,10-Sep,20-Oct
+Guinea,Millet,01-May,30-Jun,01-Oct,30-Nov
+Guinea,Maize,01-May,30-Jun,01-Oct,30-Nov
+Guinea,Sorghum,01-May,30-Jun,01-Oct,30-Nov
+Guinea,Rice,01-May,31-Aug,01-Oct,31-Jan
+Guinea,Cassava,01-Apr,30-Jun,01-Jan,31-Jul
+Guinea,Yams,01-Mar,30-Apr,01-Aug,31-Jan
+Guinea-Bissau,Millet,01-May,30-Jun,01-Sep,31-Oct
+Guinea-Bissau,Maize,01-May,30-Jun,01-Sep,31-Oct
+Guinea-Bissau,Sorghum,01-May,30-Jun,01-Sep,31-Oct
+Guinea-Bissau,Rice,01-Jun,31-Aug,01-Oct,31-Jan
+Guyana,Maize,12-Mar,11-Apr,11-Apr,21-May
+Guyana,Rice,11-Apr,22-May,10-Sep,20-Nov
+Guyana,Soybeans,11-Jun,22-Jul,10-Nov,20-Dec
+Haiti,Maize,01-Mar,30-Apr,01-Jun,31-Aug
+Haiti,Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Haiti,Sorghum,01-Jun,30-Sep,01-Jan,31-Jan
+Haiti,Rice,01-Feb,30-Apr,01-Jun,30-Sep
+Haiti,Rice,01-Aug,30-Sep,01-Nov,31-Dec
+Haiti,Pulses,01-Mar,30-Apr,01-Jun,30-Jun
+Haiti,Pulses,01-Jul,31-Aug,01-Oct,31-Oct
+Haiti,Pulses,01-Nov,31-Dec,01-Feb,28-Feb
+Indonesia (Java),Rice,01-Oct,30-Nov,01-Mar,30-Apr
+Indonesia (Java),Rice,01-May,30-Jun,01-Aug,30-Sep
+Indonesia (South Sulawesi (east)),Rice,01-Nov,31-Dec,01-Mar,30-Apr
+Indonesia (South Sulawesi (west)),Rice,01-May,30-Jun,01-Aug,30-Sep
+Indonesia (Sumatra),Rice,01-Aug,30-Sep,01-Feb,31-Mar
+Indonesia (Sumatra),Rice,01-Mar,30-Apr,01-Jul,31-Aug
+Iran,Wheat,01-Sep,10-Nov,01-Jun,20-Jul
+Iran,Barley,10-Sep,21-Jan,01-Mar,31-Mar
+Iran,Rice,11-Apr,22-Apr,10-Aug,20-Aug
+Iran,Potatoes,12-May,23-May,10-Sep,20-Sep
+Iran,Sugarbeets,09-Feb,22-May,10-Sep,19-Jan
+Iraq,Wheat,10-Nov,20-Dec,12-May,21-Jul
+Iraq,Barley,10-Oct,20-Dec,11-Apr,20-Jun
+Iraq,Millet,12-Mar,21-May,11-Jul,19-Sep
+Iraq,Sorghum,12-Mar,21-May,10-Jun,20-Sep
+Iraq,Potatoes,01-Feb,28-Feb,01-Jun,30-Jun
+Israel,Wheat,21-Oct,20-Dec,21-Apr,31-May
+Israel,Barley,10-Nov,20-Dec,12-Apr,20-Jun
+Israel,Sorghum,11-Mar,12-Apr,01-Jul,31-Aug
+Israel,Potatoes,11-Dec,22-Mar,01-Apr,31-Aug
+Israel,Sugarbeets,10-Sep,20-Oct,11-May,20-Aug
+Cote d'Ivoire,Millet,01-May,31-Jul,01-Oct,30-Nov
+Cote d'Ivoire,Maize,01-Mar,30-Apr,01-Aug,30-Sep
+Cote d'Ivoire,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Cote d'Ivoire,Sorghum,01-May,31-Jul,01-Oct,30-Nov
+Cote d'Ivoire,Rice,01-Apr,31-Jul,01-Sep,31-Dec
+Cote d'Ivoire,Cassava,01-Mar,31-May,01-Jan,30-Jun
+Cote d'Ivoire,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+Japan,Rice,12-May,21-Jul,15-Sep,20-Nov
+Japan,Wheat,20-Sep,30-Nov,01-Jun,21-Jul
+Japan,Potatoes,01-Mar,31-May,01-Jun,09-Oct
+Jordan,Wheat,11-Nov,20-Jan,12-May,21-Jul
+Jordan,Barley,10-Nov,21-Jan,10-Apr,21-Jun
+Jordan,Sorghum,12-Mar,22-Jun,11-Aug,20-Sep
+Jordan,Potatoes,09-Feb,21-Mar,01-Jun,30-Jun
+Kazakhstan,Multiple,01-May,30-Jun,01-Sep,31-Oct
+Kazakhstan,Wheat,01-May,04-Jun,09-Aug,30-Sep
+Kazakhstan,Barley,01-Apr,31-May,05-Aug,04-Oct
+Kazakhstan,Cotton,16-Apr,27-May,19-Sep,19-Nov
+Kenya,Wheat,12-May,30-Jun,01-Oct,30-Nov
+Kenya,Maize,01-Mar,30-Apr,01-Oct,30-Nov
+Kenya,Maize,01-Oct,30-Nov,01-Mar,30-Apr
+Kenya,Millet,01-Mar,20-Apr,01-Jun,31-Oct
+Kenya,Millet,01-Oct,30-Nov,01-Mar,30-Apr
+Kenya,Sorghum,01-Feb,30-Apr,01-Aug,30-Sep
+Kenya,Sorghum,01-Oct,30-Nov,01-Mar,30-Apr
+Kenya,Barley,20-Feb,20-Apr,01-Jul,31-Jan
+Kenya,Barley,01-Oct,30-Nov,01-Mar,30-Apr
+Kenya,Pulses,17-Mar,30-Apr,01-Sep,31-Oct
+Kenya,Pulses,01-Oct,30-Nov,01-Mar,30-Apr
+Kyrgyzstan,Wheat,17-Aug,11-Oct,01-Jun,17-Aug
+Kyrgyzstan,Maize,01-Apr,30-Jun,01-Aug,30-Sep
+Kyrgyzstan,Cotton,17-Apr,27-May,20-Sep,19-Nov
+Laos,Rice,17-May,16-Jul,01-Oct,31-Dec
+Laos,Rice,15-Nov,31-Jan,01-Apr,30-Apr
+Latvia,Multiple,15-Aug,31-Oct,01-Jul,15-Aug
+Latvia,Wheat,20-Aug,09-Oct,10-Jul,20-Aug
+Latvia,Rye,15-Aug,21-Sep,15-Jun,15-Aug
+Latvia,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Latvia,Barley,01-Apr,31-May,06-Aug,05-Oct
+Lebanon,Wheat,11-Oct,20-Jan,11-Jun,21-Aug
+Lebanon,Sorghum,11-Apr,22-May,10-Sep,20-Oct
+Lesotho,Wheat,01-May,31-May,01-Nov,30-Nov
+Lesotho,Maize,01-Oct,31-Dec,01-May,30-Jun
+Lesotho,Sorghum,01-Nov,31-Dec,17-May,30-Jun
+Liberia,Rice,01-Apr,31-Jul,01-Sep,31-Dec
+Liberia,Cassava,01-Mar,31-May,01-Jan,30-Jun
+Liberia,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+Libya,Wheat,10-Oct,20-Nov,01-May,20-Jun
+Libya,Barley,10-Oct,20-Nov,11-Apr,21-May
+Libya,Millet,12-Mar,21-Mar,11-Jul,21-Aug
+Libya,Potatoes,10-Jan,20-Feb,12-May,21-Jun
+Lithuania,Multiple,16-Aug,31-Oct,01-Jul,16-Aug
+Lithuania,Wheat,21-Aug,10-Oct,11-Jul,21-Aug
+Lithuania,Rye,16-Aug,20-Sep,07-Jul,16-Aug
+Lithuania,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Lithuania,Barley,01-Apr,31-May,06-Aug,05-Oct
+Macedonia,Wheat,16-Oct,15-Dec,01-Jun,31-Jul
+Macedonia,Rice,21-Apr,31-May,01-Aug,31-Aug
+Macedonia,Maize,17-Apr,15-Jun,16-Aug,31-Oct
+Macedonia,Sunflower,22-Apr,31-May,14-Sep,31-Oct
+Macedonia,Pulses,17-Apr,25-Jun,16-Jul,31-Aug
+Macedonia,Sugarbeets,01-May,30-Jun,15-Sep,31-Oct
+Macedonia,Other,16-Oct,05-Dec,13-Feb,15-Apr
+Macedonia,Other,17-Apr,16-Jun,16-Jun,31-Aug
+Macedonia,Other,14-Feb,17-Mar,17-Mar,31-Aug
+Macedonia,Multiple,01-Nov,30-Apr,21-May,31-Oct
+Madagascar,Wheat,01-May,31-May,01-Nov,30-Nov
+Madagascar,Rice,01-Nov,16-Jan,01-Apr,30-Jun
+Madagascar,Maize,01-Nov,31-Dec,16-Mar,30-Apr
+Madagascar,Sorghum,01-Dec,31-Dec,01-May,31-May
+Madagascar,Potatoes,10-Sep,19-Nov,09-Feb,20-May
+Madagascar,Sweet.Potatoes,09-Feb,16-May,16-May,20-Dec
+Malawi,Wheat,01-Feb,22-Mar,11-Jul,31-Aug
+Malawi,Rice,10-Nov,31-Dec,01-May,11-Jul
+Malawi,Maize,14-Sep,15-Nov,16-Apr,16-Jun
+Malawi,Sorghum,01-Dec,31-Dec,01-Jun,30-Jun
+Malaysia (Sabah prov.),Rice,10-Jun,20-Sep,10-Dec,19-Apr
+Malaysia (Sarawak prov.),Rice,11-Aug,20-Sep,11-Jan,21-May
+Mali,Millet,01-May,31-Jul,01-Sep,30-Nov
+Mali,Maize,01-May,31-Jul,01-Sep,30-Nov
+Mali,Sorghum,01-May,31-Jul,01-Sep,30-Nov
+Mali,Rice,01-Jun,31-Jul,15-Nov,31-Jan
+Mali,Rice,01-Oct,31-Dec,01-Mar,30-Apr
+Mauritania,Millet,01-Jul,31-Aug,01-Oct,30-Nov
+Mauritania,Maize,01-Jul,31-Aug,01-Oct,30-Nov
+Mauritania,Sorghum,01-Jul,31-Aug,01-Oct,31-Dec
+Mauritania,Rice,01-Jun,16-Jul,01-Oct,30-Nov
+Mauritania,Rice,01-Oct,31-Dec,01-Mar,30-Apr
+Mauritania,Multiple,01-Oct,31-Oct,01-Feb,28-Feb
+Mauritania,Multiple,01-Nov,30-Nov,01-Mar,30-Apr
+Mexico,Rice,11-Apr,21-Jul,10-Sep,19-Jan
+Mexico,Soybeans,11-Apr,21-Jul,11-Sep,20-Dec
+Mexico,Potatoes,09-Feb,22-May,22-May,20-Dec
+Moldova,Multiple,16-Aug,31-Oct,01-Jul,16-Aug
+Moldova,Wheat,21-Aug,10-Oct,11-Jul,21-Aug
+Moldova,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Moldova,Maize,01-May,06-Jun,26-Sep,15-Nov
+Moldova,Sunflower,17-Apr,31-May,10-Sep,31-Oct
+Moldova,Sugarbeets,06-Apr,22-May,10-Sep,31-Oct
+Morocco,Wheat,11-Nov,21-Dec,12-May,21-Jun
+Morocco,Barley,11-Nov,21-Dec,12-May,21-Jul
+Morocco,Maize,10-Feb,19-Feb,11-Jun,31-Jul
+Morocco,Potatoes,10-Sep,21-Sep,09-Feb,20-Apr
+Mozambique,Wheat,01-May,31-May,01-Oct,31-Oct
+Mozambique,Maize,01-Nov,31-Dec,01-May,31-May
+Mozambique,Sorghum,01-Nov,31-Dec,01-May,30-Jun
+Myanmar,Wheat,21-Sep,30-Nov,20-Feb,11-May
+Myanmar,Maize,11-Sep,12-Dec,10-Jan,10-Apr
+Myanmar,Potatoes,10-Feb,11-May,11-Jun,10-Sep
+Namibia,Wheat,01-May,15-Jun,01-Oct,15-Nov
+Namibia,Maize,01-Dec,31-Dec,01-Jun,30-Jun
+Namibia,Sorghum,01-Dec,31-Jan,01-Jun,30-Jun
+Nepal,Wheat,21-Oct,11-Dec,12-Mar,30-Jun
+Nepal,Maize,01-Feb,21-May,10-Aug,30-Sep
+Nepal,Rice,21-May,11-Aug,21-Oct,19-Dec
+Nepal,Millet,10-Jun,11-Aug,20-Sep,20-Dec
+Nicaragua,Maize,01-May,30-Jun,01-Aug,30-Sep
+Nicaragua,Maize,01-Aug,30-Sep,01-Nov,30-Nov
+Nicaragua,Maize,01-Dec,31-Dec,01-Mar,30-Apr
+Nicaragua,Sorghum,01-May,30-Jun,01-Sep,31-Oct
+Nicaragua,Sorghum,01-Aug,30-Sep,01-Nov,31-Dec
+Nicaragua,Rice,01-Jan,28-Feb,01-Apr,30-Jun
+Nicaragua,Rice,01-Jul,30-Sep,01-Nov,30-Nov
+Nicaragua,Rice,01-Jun,30-Jun,01-Oct,30-Nov
+Nicaragua,Pulses,01-May,31-May,01-Jul,31-Aug
+Nicaragua,Pulses,01-Sep,30-Sep,01-Nov,31-Dec
+Nicaragua,Pulses,01-Dec,31-Dec,01-Mar,31-Mar
+Niger,Millet,17-Jun,21-Jul,01-Sep,31-Oct
+Niger,Maize,01-Jun,15-Jul,14-Sep,31-Oct
+Niger,Sorghum,17-Jun,16-Aug,15-Sep,15-Nov
+Niger,Rice,01-Jun,31-Jul,01-Aug,30-Nov
+Niger,Groundnuts,01-Jun,22-Jul,01-Oct,30-Nov
+Niger,Pulses,01-Jun,11-Aug,01-Sep,19-Nov
+Nigeria,Millet,01-Jun,30-Jun,01-Sep,31-Oct
+Nigeria (South),Maize,01-Mar,30-Apr,01-Jun,31-Aug
+Nigeria (North),Maize,01-May,30-Jun,01-Aug,30-Sep
+Nigeria,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Nigeria,Sorghum,01-May,31-Jul,01-Sep,30-Nov
+Nigeria (South),Cassava,01-May,30-Jun,01-Dec,31-Jan
+Nigeria,Yams,01-Feb,31-Mar,01-Jul,31-Jan
+Pakistan,Barley,10-Oct,20-Nov,11-Mar,30-Apr
+Pakistan,Maize,11-Apr,20-Aug,09-Sep,30-Nov
+Pakistan,Millet,11-Jun,21-Aug,09-Sep,09-Nov
+Pakistan,Sorghum,11-Jun,31-Jul,01-Sep,31-Oct
+Pakistan,Potatoes,10-Jan,11-Mar,11-Apr,11-Jun
+Panama,Maize,11-May,20-Jun,10-Aug,19-Sep
+Panama,Rice,12-Apr,21-Jul,10-Aug,20-Oct
+Paraguay,Wheat,11-Apr,21-Jun,11-Sep,20-Nov
+Paraguay,Maize,11-Jul,20-Sep,10-Jan,22-Mar
+Paraguay,Rice,10-Oct,20-Dec,11-Mar,21-May
+Paraguay,Sorghum,11-Sep,20-Nov,10-Jan,21-Mar
+Paraguay,Potatoes,12-Jul,20-Aug,10-Nov,19-Jan
+Paraguay,Sweet.Potatoes,11-Aug,20-Oct,12-Mar,21-May
+Peru,Wheat,10-Nov,22-Mar,11-Apr,19-Sep
+Peru,Barley,21-Oct,22-Mar,11-Apr,20-Aug
+Peru,Rice,10-Dec,22-Mar,11-May,21-Aug
+Peru,Sorghum,12-Apr,31-Aug,01-Sep,19-Dec
+Peru,Potatoes,12-Apr,22-Jul,10-Aug,19-Dec
+Peru,Soybeans,11-Oct,20-Dec,12-Apr,19-Jun
+Philippines,Potatoes,12-Mar,21-Jul,01-Aug,20-Nov
+Russia,Sugarbeets,06-Apr,21-May,10-Sep,31-Oct
+Rwanda,Pulses,01-Sep,31-Oct,01-Dec,31-Jan
+Rwanda,Pulses,01-Feb,31-Mar,01-May,30-Jun
+Rwanda,Maize,01-Sep,31-Oct,01-Jan,28-Feb
+Rwanda,Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Rwanda,Sorghum,01-Sep,31-Oct,01-Jan,28-Feb
+Rwanda,Sorghum,01-Feb,31-Mar,01-Jun,31-Jul
+Saudi Arabia,Wheat,10-Nov,20-Dec,21-Apr,21-May
+Saudi Arabia,Barley,10-Nov,20-Dec,01-Apr,30-Apr
+Saudi Arabia,Maize,01-Mar,12-Mar,20-Jun,30-Jun
+Saudi Arabia,Rice,01-Jul,12-Jul,20-Nov,30-Nov
+Saudi Arabia,Millet,10-Aug,19-Sep,10-Dec,19-Jan
+Saudi Arabia,Sorghum,10-Aug,20-Sep,10-Dec,19-Jan
+Senegal,Millet,17-Jun,31-Jul,01-Sep,30-Nov
+Senegal,Maize,01-Jun,31-Jul,01-Sep,14-Nov
+Senegal,Sorghum,17-Jun,31-Jul,01-Sep,30-Nov
+Senegal,Rice,01-Jun,31-Aug,01-Nov,31-Jan
+Senegal,Groundnuts,01-Jun,31-Jul,01-Nov,28-Feb
+Sierra Leone,Millet,01-May,31-Jul,01-Oct,30-Nov
+Sierra Leone,Maize,01-May,31-Jul,01-Oct,30-Nov
+Sierra Leone,Sorghum,01-May,30-Jun,01-Oct,30-Nov
+Sierra Leone,Rice,01-Apr,31-Jul,01-Sep,31-Dec
+Sierra Leone,Cassava,01-Mar,31-May,01-Jan,30-Jun
+Sierra Leone,Yams,01-Feb,31-Mar,01-Jul,31-Dec
+Somalia,Maize,01-Apr,30-Apr,01-Aug,31-Aug
+Somalia,Maize,16-Oct,16-Nov,17-Mar,16-Apr
+South Africa,Barley,10-Apr,21-Jun,10-Oct,19-Dec
+South Africa (West),Maize,01-Dec,31-Jan,01-Jun,30-Jun
+South Africa,Rice,10-Sep,20-Dec,10-Apr,20-Jun
+South Africa,Millet,21-Aug,20-Dec,10-Apr,21-Jul
+South Africa,Sorghum,01-Dec,31-Jan,01-Jun,30-Jun
+South Africa,Soybeans,11-Oct,19-Dec,10-Apr,20-Jun
+South Korea,Wheat,01-Oct,10-Nov,01-Jun,30-Jun
+South Korea,Barley,01-Nov,30-Nov,11-Jun,21-Jul
+South Korea,Maize,01-Apr,12-May,21-Aug,11-Oct
+South Korea,Rice,01-May,30-Jun,01-Sep,31-Oct
+South Korea,Millet,01-Jun,30-Jun,20-Sep,20-Oct
+South Korea,Sorghum,01-Apr,31-May,10-Sep,20-Oct
+South Korea,Potatoes,01-Mar,12-Apr,20-Jun,21-Jul
+South Korea,Sweet.Potatoes,12-Mar,21-Apr,10-Aug,19-Sep
+Sri Lanka,Rice,01-Sep,20-Dec,10-Jan,21-Apr
+Sri Lanka,Maize,01-Oct,20-Nov,09-Feb,31-Mar
+Sudan,Wheat,01-Nov,30-Nov,01-Mar,31-Mar
+Sudan (South),Maize,01-Apr,31-May,01-Aug,19-Sep
+Sudan (South),Millet,01-Apr,31-May,01-Aug,30-Sep
+Sudan (North),Millet,01-Jun,31-Jul,01-Nov,31-Dec
+Sudan (South),Sorghum,01-Apr,31-May,01-Aug,30-Sep
+Sudan (North),Sorghum,01-Jun,31-Jul,01-Nov,31-Dec
+Suriname,Maize,10-Sep,22-Oct,09-Feb,21-Mar
+Suriname,Rice,12-Mar,21-Aug,10-Sep,21-Oct
+Suriname,Soybeans,11-Dec,31-Dec,11-Mar,21-Apr
+Swaziland,Wheat,01-May,31-May,01-Nov,30-Nov
+Swaziland,Maize,01-Oct,30-Nov,01-May,31-May
+Swaziland,Rice,11-Oct,20-Nov,10-Jan,20-May
+Swaziland,Sorghum,01-Dec,31-Dec,01-Jun,30-Jun
+Syria,Wheat,09-Oct,19-Jan,11-May,20-Jul
+Syria,Barley,10-Oct,10-Jan,11-May,30-Jun
+Syria,Rice,11-Apr,21-May,10-Sep,31-Oct
+Syria,Potatoes,11-Mar,16-May,16-May,20-Oct
+Tajikistan,Wheat,15-Aug,14-Nov,01-Jun,15-Aug
+Tajikistan,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Tajikistan,Cotton,16-Apr,26-May,20-Sep,19-Nov
+Tanzania (South),Wheat,10-Dec,16-Feb,17-May,30-Jun
+Tanzania (North),Wheat,15-Jan,16-Mar,01-Jun,31-Jul
+Tanzania,Barley,11-Jan,22-Mar,11-Jun,31-Aug
+Tanzania (South),Maize,15-Dec,16-Feb,17-May,16-Jul
+Tanzania (North),Maize,10-Jan,12-Mar,01-Jun,31-Jul
+Tanzania (South),Sorghum,01-Dec,31-Jan,01-May,30-Jun
+Tanzania (North),Sorghum,01-Jan,28-Feb,17-May,30-Jun
+Tanzania,Potatoes,12-Mar,22-May,11-Jun,21-Aug
+Thailand,Sorghum,12-Apr,31-Aug,01-Sep,21-Dec
+Togo,Millet,01-May,31-Jul,01-Oct,30-Nov
+Togo,Maize,01-Mar,30-Apr,01-Aug,30-Sep
+Togo,Maize,01-Aug,30-Sep,01-Dec,31-Jan
+Togo,Sorghum,01-May,31-Jul,01-Oct,30-Nov
+Togo,Rice,01-May,31-May,16-Oct,15-Nov
+Togo,Cassava,01-May,30-Jun,01-Dec,31-Jan
+Togo,Yams,01-Feb,31-Mar,01-Jul,31-Jan
+Trinidad & Tobago,Maize,01-Jun,12-Jul,01-Sep,10-Oct
+Trinidad & Tobago,Rice,01-Jun,11-Aug,21-Oct,10-Dec
+Trinidad & Tobago,Sweet.Potatoes,01-Feb,21-Apr,21-Apr,30-Apr
+Tunisia,Wheat,11-Oct,20-Dec,01-Jun,30-Jun
+Tunisia,Barley,10-Oct,20-Dec,11-May,20-Jun
+Tunisia,Potatoes,19-Jan,28-Feb,21-May,30-Jun
+Tunisia,Sugarbeets,11-Oct,21-Dec,11-Jun,21-Jun
+Turkey,Wheat,11-Sep,30-Nov,21-Jun,10-Aug
+Turkey,Barley,10-Sep,21-Dec,12-May,21-Jul
+Turkey,Maize,11-Apr,31-May,21-Aug,31-Oct
+Turkey,Rice,11-Apr,21-Jun,11-Sep,20-Oct
+Turkey,Millet,01-Apr,31-May,01-Aug,20-Oct
+Turkey,Potatoes,01-Mar,30-Jun,11-Jul,20-Sep
+Turkmenistan,Wheat,15-Aug,14-Nov,01-Jun,15-Aug
+Turkmenistan,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Turkmenistan,Maize,01-Apr,30-Jun,01-Aug,30-Sep
+Turkmenistan,Cotton,17-Apr,26-May,21-Sep,19-Nov
+Uganda (South),Pulses,01-Feb,31-Mar,01-Jun,31-Jul
+Uganda (South),Pulses,01-Sep,31-Oct,01-Dec,31-Jan
+Uganda (South),Maize,01-Feb,31-Mar,01-Jun,31-Jul
+Uganda (South),Maize,01-Sep,31-Oct,01-Dec,31-Jan
+Uganda (North),Maize,01-Apr,31-May,01-Aug,30-Sep
+Uganda (South),Millet,01-Feb,31-Mar,01-Jun,31-Aug
+Uganda (South),Millet,01-Sep,31-Oct,01-Dec,31-Jan
+Uganda (North),Millet,01-Apr,31-May,01-Sep,31-Oct
+Uganda (North),Cassava,01-Apr,31-May,01-Sep,31-Mar
+Uganda (North),Sweet.Potatoes,01-Apr,31-May,01-Sep,31-Mar
+Uruguay,Wheat,01-May,31-Aug,09-Nov,08-Jan
+Uruguay,Barley,10-Jun,21-Jul,09-Nov,18-Jan
+Uruguay,Maize,01-Aug,31-Dec,21-Mar,11-May
+Uruguay,Rice,01-Oct,19-Dec,11-Mar,31-May
+Uruguay,Sorghum,01-Oct,19-Dec,22-Mar,31-May
+Uruguay,Potatoes,11-Jul,19-Sep,09-Nov,19-Feb
+Uruguay,Sweet.Potatoes,10-Aug,20-Sep,10-Dec,18-Jan
+Uruguay,Sugarbeets,11-May,22-Jul,09-Nov,21-Mar
+Uruguay,Soybeans,01-Oct,19-Dec,22-Mar,21-May
+Uzbekistan,Multiple,15-Aug,15-Nov,01-Jun,15-Aug
+Uzbekistan,Multiple,01-Apr,30-Jun,01-Aug,30-Sep
+Uzbekistan,Maize,01-Apr,30-Jun,01-Aug,30-Sep
+Uzbekistan,Cotton,17-Apr,26-May,21-Sep,19-Nov
+Venezuela,Maize,08-Feb,11-Jul,11-Jul,18-Dec
+Venezuela,Rice,10-Apr,21-Jul,11-Aug,20-Nov
+Venezuela,Sorghum,10-Oct,20-Nov,11-Mar,20-Apr
+Venezuela,Potatoes,10-Nov,20-Dec,11-Mar,20-Apr
+Zambia,Wheat,01-May,15-Jun,01-Oct,14-Nov
+Zambia,Maize,15-Oct,14-Dec,15-Apr,15-Jun
+Zambia,Millet,10-Dec,21-Dec,10-Jun,21-Jul
+Zambia,Sorghum,15-Nov,16-Jan,01-May,30-Jun
+Zimbabwe,Wheat,01-May,15-Jun,01-Oct,14-Nov
+Zimbabwe,Maize,01-Nov,31-Dec,01-May,30-Jun
+Zimbabwe,Sorghum,01-Dec,31-Jan,01-Jun,30-Jun
+Argentina,Sorghum,07-Oct,31-Dec,02-Apr,28-Jul
+Argentina,Soybeans,30-Oct,30-Dec,30-Mar,30-May
+Argentina,Soybeans,01-Jan,05-Feb,29-Apr,29-Jun
+Argentina,Sunflower,03-Sep,26-Dec,15-Feb,16-May
+Argentina,Cotton,03-Sep,29-Nov,16-Feb,28-Jun
+Argentina,Sugarcane,01-May,01-Dec,01-May,01-Dec
+Argentina,Groundnuts,26-Sep,30-Dec,27-Feb,28-Jun
+Australia,Rapeseed,15-Apr,01-Jul,18-Oct,31-Dec
+Bangladesh,Rice,07-Mar,22-May,29-Jun,19-Aug
+Bangladesh,Rice,31-May,10-Aug,30-Oct,26-Dec
+Bangladesh,Rice,07-Nov,30-Jan,17-Apr,28-May
+Brazil (Center-South),Maize,18-Oct,31-Dec,28-Jan,20-Jun
+Brazil (Center-South),Wheat,28-Mar,27-May,29-Aug,30-Nov
+Brazil (Rio Grande do Sul),Wheat,29-Apr,29-Jun,27-Sep,30-Dec
+Brazil (Center-South),Soybeans,18-Oct,31-Dec,28-Feb,01-Jun
+Brazil (Center-South),Cotton,31-Aug,23-Nov,27-Jan,30-May
+Brazil (Northeast),Cotton,30-Mar,29-May,29-Jul,29-Jan
+Brazil (Center-South),Sugarcane,30-Apr,28-Oct,30-Apr,28-Oct
+Brazil (Northeast),Sugarcane,30-Aug,31-Mar,30-Aug,31-Mar
+Bulgaria,Maize,25-Mar,27-May,12-Aug,11-Oct
+Bulgaria,Wheat,30-Aug,02-Nov,13-Jun,12-Aug
+"Canadian Prairies (Alberta, Saskatchewan, Manitoba)",Wheat,25-Apr,05-Jun,16-Aug,13-Oct
+"Canadian Prairies (Alberta, Saskatchewan, Manitoba)",Barley,26-Apr,05-Jun,15-Aug,13-Oct
+"Canadian Prairies (Alberta, Saskatchewan, Manitoba)",Rapeseed,28-Apr,05-Jun,16-Aug,13-Oct
+Ontario & Quebec,Maize,28-Apr,03-Jul,24-Sep,25-Nov
+Ontario & Quebec,Soybeans,05-May,29-Jun,12-Sep,20-Nov
+China,Rice,31-Mar,02-Jun,03-Aug,03-Oct
+China,Rice,25-Feb,30-Apr,29-May,29-Jul
+China,Rice,31-May,02-Aug,03-Oct,02-Dec
+China (north),Wheat,28-Feb,29-Apr,09-Jul,22-Aug
+China (North China Plain),Wheat,30-Aug,29-Oct,16-May,27-Jun
+China (North China Plain and Manchuria),Maize,08-Apr,11-Jun,12-Aug,11-Oct
+China (south),Maize,09-Feb,13-Apr,30-Jun,29-Aug
+China (North China Plain and Manchuria),Soybeans,31-Mar,03-Jun,31-Aug,30-Oct
+China,Groundnuts,23-Apr,05-Jun,08-Sep,31-Oct
+China,Rapeseed,01-Nov,30-Dec,29-Mar,29-May
+China,Cotton,30-Mar,16-May,30-Aug,30-Oct
+China,Sugarcane,31-Oct,26-Apr,31-Oct,26-Apr
+China,Sugarbeets,31-Mar,13-May,30-Sep,30-Nov
+Finland,Barley,09-Apr,30-May,10-Aug,29-Sep
+Finland,Oats,09-Apr,29-May,10-Aug,29-Sep
+France,Wheat,29-Sep,01-Dec,01-Jul,31-Aug
+France,Maize,29-Mar,31-May,30-Aug,02-Dec
+France,Barley,04-Sep,30-Oct,28-May,28-Jul
+France,Rapeseed,01-Aug,03-Oct,29-May,30-Jul
+France,Sunflower,29-Mar,31-May,27-Jul,25-Sep
+France,Sugarbeets,28-Mar,30-May,31-Aug,30-Oct
+Germany,Wheat,29-Sep,04-Nov,28-Jul,03-Sep
+Germany,Barley,30-Aug,02-Nov,31-May,30-Jul
+Germany,Barley,28-Mar,06-May,30-Jul,09-Sep
+Germany,Rye,31-Aug,02-Nov,31-May,31-Jul
+Germany,Rapeseed,31-Jul,03-Oct,01-Jun,31-Jul
+Germany,Sugarbeets,26-Mar,30-May,31-Aug,31-Oct
+Greece,Cotton,28-Feb,12-Apr,30-Sep,29-Nov
+Hungary,Maize,28-Mar,31-May,01-Sep,31-Oct
+Hungary,Sunflower,25-Mar,28-May,30-Aug,29-Oct
+Hungary,Wheat,30-Aug,02-Nov,01-Jun,31-Jul
+Italy,Wheat,03-Oct,05-Dec,31-May,31-Jul
+Italy,Maize,27-Mar,15-May,30-Aug,29-Oct
+Italy,Sunflower,30-Mar,01-Jun,26-Sep,21-Nov
+Mexico (not northwest),Maize,28-Apr,29-Jun,03-Oct,27-Dec
+Mexico,Wheat,02-Oct,30-Dec,03-Apr,28-Jun
+Mexico,Sorghum,15-Apr,05-Jun,29-Oct,31-Dec
+Mexico,Sorghum,30-Jan,28-Mar,11-May,01-Jul
+Pakistan,Wheat,26-Sep,22-Dec,03-Apr,12-Jun
+Pakistan,Rice,19-May,23-Jul,21-Sep,18-Dec
+Pakistan,Cotton,31-May,28-Jul,20-Sep,17-Dec
+Pakistan,Sugarcane,26-Jan,31-Mar,28-Oct,31-Dec
+Paraguay,Soybeans,07-Oct,31-Dec,01-Mar,01-Jul
+Paraguay,Cotton,27-Sep,21-Dec,11-Feb,12-Jun
+Poland,Wheat,31-Aug,04-Nov,28-Jun,28-Aug
+Poland,Rye,30-Aug,02-Nov,29-May,29-Jul
+Poland,Oats,24-Mar,27-May,27-Jul,25-Sep
+Poland,Rapeseed,01-Aug,04-Oct,01-Jun,01-Aug
+Poland,Sugarbeets,27-Mar,30-May,02-Oct,01-Dec
+Romania,Maize,27-Mar,30-May,29-Jul,27-Sep
+Romania,Wheat,31-Aug,03-Nov,02-Jul,31-Aug
+Russia,Barley,17-Sep,24-Oct,18-Jun,19-Jul
+Russia,Sunflower,19-Apr,28-May,03-Sep,25-Oct
+Spain,Wheat,28-Oct,30-Dec,23-May,30-Jul
+Spain,Wheat,28-Oct,30-Dec,17-Apr,11-Jun
+Spain,Barley,16-Nov,29-Dec,28-May,28-Jul
+Spain,Maize,25-Feb,30-Apr,21-Aug,03-Dec
+Spain,Sunflower,01-Mar,29-May,30-Jul,31-Oct
+Spain,Cotton,28-Jan,27-Mar,30-Aug,03-Dec
+Spain,Rice,24-Jan,29-Mar,29-Aug,28-Oct
+Sweden,Barley,12-Apr,02-Jun,12-Aug,01-Oct
+Sweden,Oats,15-Apr,02-Jun,01-Sep,01-Nov
+Sweden,Wheat,31-Aug,02-Nov,31-May,30-Jul
+Sweden,Rapeseed,29-Aug,30-Oct,31-May,28-Jul
+Ukraine,Sorghum,21-Apr,23-May,17-Sep,02-Nov
+Ukraine,Rapeseed,29-Apr,06-Jun,06-Aug,27-Sep
+Ukraine,Wheat,29-Apr,06-Jun,06-Aug,28-Sep
+Ukraine,Sugarbeets,01-Apr,19-May,03-Sep,26-Oct
+Ukraine,Sunflower,09-Apr,27-May,06-Sep,29-Oct
+Ukraine,Rapeseed,16-Aug,24-Sep,09-Jul,14-Aug
+United Kingdom,Wheat,03-Oct,28-Nov,02-Jul,21-Aug
+United Kingdom,Barley,28-Feb,26-Apr,02-Jul,21-Aug
+United Kingdom,Barley,17-Sep,04-Nov,30-May,29-Jul
+United Kingdom,Rapeseed,15-Sep,31-Oct,15-Jun,15-Aug
+United Kingdom,Sugarbeets,01-Mar,26-Apr,22-Sep,29-Dec
+Ontario & Quebec,Wheat,13-Sep,08-Nov,01-Jul,05-Sep
+Mexico (NW),Maize,01-Sep,31-Oct,01-Jan,31-Mar
+Mexico,Sugarcane,01-Nov,30-Jun,01-Nov,30-Jun
+Cuba,Sugarcane,01-Nov,11-Jun,01-Nov,11-Jun
+Brazil (Northeast),Maize,04-Mar,28-May,01-Oct,31-Dec
+Brazil (North & Northeast),Rice,01-Jan,28-Feb,28-May,31-Aug
+Brazil (Center-South),Rice,13-Oct,31-Dec,28-Jan,28-May
+Czechoslovakia,Multiple,06-Apr,31-May,21-Aug,01-Oct
+Czechoslovakia,Multiple,16-Aug,20-Oct,01-Jul,20-Aug
+Italy,Wheat,05-Mar,04-May,01-Jul,31-Aug
+Italy,Barley,06-Nov,02-Mar,21-May,15-Jul
+Italy,Rice,05-Apr,28-May,26-Sep,06-Nov
+Italy,Soybeans,26-Apr,31-May,01-Oct,30-Nov
+Sweden,Rye,01-Sep,31-Oct,01-Jun,31-Jul
+Yugoslavia (Former),Maize,03-Apr,20-May,06-Sep,06-Nov
+Yugoslavia (Former),Wheat,01-Sep,31-Oct,01-Jul,31-Aug
+Turkey,Cotton,12-Mar,18-May,15-Sep,15-Dec
+India,Soybeans,01-Jun,31-Jul,12-Sep,28-Dec
+India,Rapeseed,01-Oct,26-Dec,16-Mar,21-May
+India (North),Cotton,08-Mar,15-Jun,21-Sep,26-Dec
+Burma (Myanmar),Rice,01-May,04-Jul,04-Oct,20-Dec
+Burma (Myanmar),Rice,28-Oct,31-Dec,10-Mar,12-Jun
+Thailand,Rice,08-May,31-Aug,06-Oct,03-Feb
+Thailand,Rice,06-Jan,10-Mar,26-Apr,30-Jun
+Thailand,Maize,12-Apr,15-Jun,06-Jul,18-Sep
+Thailand (central & northern),Sugarcane,08-May,23-Jun,01-Dec,28-Feb
+Thailand (central & northern),Sugarcane,03-Dec,18-Apr,03-Dec,18-Apr
+Thailand (NE),Sugarcane,03-Oct,28-Nov,01-Dec,20-Mar
+Vietnam,Rice,01-May,26-Jun,15-Aug,08-Nov
+Vietnam (North),Rice,08-Jun,10-Aug,04-Sep,08-Dec
+Vietnam (South),Rice,15-Jun,15-Oct,21-Nov,09-Feb
+Vietnam (North),Rice,10-Nov,10-Apr,18-May,28-Jul
+Vietnam (South),Rice,26-Nov,12-Mar,25-Mar,23-May
+Philippines,Rice,01-Apr,18-Jun,11-Sep,15-Dec
+Philippines,Rice,10-Oct,24-Dec,11-Jan,18-Apr
+Philippines,Maize,04-Apr,15-Jun,06-Jul,20-Sep
+Indonesia,Maize,22-Jun,24-Aug,13-Oct,15-Dec
+Indonesia (S. Sumatra & E. Java),Maize,03-Nov,28-Dec,01-Mar,03-May
+Australia,Sugarcane,28-Jun,31-Dec,28-Jun,31-Dec
+Philippines,Maize,10-Oct,26-Dec,09-Feb,05-May
+Brazil (Center-South),Maize,01-Jan,27-Feb,01-Jun,15-Sep
+Argentina,Maize,09-Sep,06-Dec,01-Mar,30-May
+Argentina,Rice,30-Aug,15-Dec,28-Feb,24-Jun
+Argentina,Wheat,07-May,21-Aug,31-Oct,22-Jan
+South Africa (East),Maize,28-Sep,31-Dec,25-Apr,12-Jul
+South Africa (except Western Cape),Wheat,27-Apr,06-Jul,29-Sep,16-Dec
+"China (Sichuan, Hubei and Hunan)",Cotton,30-Mar,16-May,01-Aug,30-Sep
+China (South),Soybeans,14-Feb,19-Apr,17-Jul,15-Sep
+Mexico (Yucatan),Maize,12-Jun,13-Aug,17-Nov,10-Feb
+Alaska,Barley,05-May,05-Jun,20-Aug,05-Oct
+California,Barley,20-Feb,15-May,15-Aug,01-Oct
+Colorado,Barley,15-Mar,15-May,10-Jul,20-Sep
+Idaho,Barley,24-Mar,26-May,28-Jul,29-Sep
+Kansas,Barley,01-Mar,01-May,10-Jun,10-Jul
+Michigan,Barley,15-Apr,21-May,26-Jul,31-Aug
+Minnesota,Barley,16-Apr,05-Jun,26-Jul,24-Sep
+Montana,Barley,07-Apr,01-Jun,04-Aug,28-Sep
+Nebraska,Barley,20-Mar,18-Apr,18-Jul,30-Jul
+Nevada,Barley,05-Apr,20-May,20-Jul,05-Sep
+North Dakota,Barley,21-Apr,26-May,30-Jul,06-Sep
+Oregon,Barley,01-Sep,15-May,05-Jul,01-Sep
+South Dakota,Barley,06-Apr,20-May,12-Jul,20-Aug
+Utah,Barley,20-Mar,10-May,15-Jul,01-Sep
+Washington,Barley,01-Mar,20-May,15-Jul,15-Sep
+Wisconsin,Barley,05-Apr,15-May,15-Jul,01-Sep
+Wyoming,Barley,15-Mar,28-May,29-Jul,21-Sep
+Arizona,Barley,10-Nov,01-Feb,15-May,01-Jul
+California,Barley,15-Sep,30-Apr,15-May,15-Aug
+Delaware,Barley,27-Sep,10-Nov,05-Jun,03-Jul
+Kansas,Barley,15-Sep,01-Nov,20-Jun,05-Jul
+Kentucky,Barley,25-Sep,20-Oct,01-Jun,25-Jun
+Maryland,Barley,17-Sep,07-Nov,12-Jun,08-Jul
+Nevada,Barley,05-Sep,20-Oct,10-Jul,25-Aug
+New Jersey,Barley,14-Sep,21-Oct,07-Jun,14-Jun
+North Carolina,Barley,25-Sep,01-Dec,25-May,25-Jul
+Oklahoma,Barley,12-Sep,21-Nov,06-Jun,10-Jul
+Pennsylvania,Barley,25-Aug,25-Oct,20-Jun,10-Aug
+South Carolina,Barley,07-Oct,15-Dec,25-May,18-Jul
+Texas,Barley,10-Sep,01-Dec,20-May,01-Jul
+Virginia,Barley,10-Sep,25-Nov,30-May,15-Jul
+California,Pulses,01-Apr,01-Jul,01-Aug,15-Nov
+Colorado,Pulses,15-May,01-Jul,25-Aug,15-Oct
+Idaho,Pulses,12-May,23-Jun,18-Aug,20-Oct
+Kansas,Pulses,10-May,01-Jul,25-Aug,10-Oct
+Michigan,Pulses,29-May,28-Jun,06-Sep,24-Oct
+Minnesota,Pulses,09-May,16-Jun,01-Sep,19-Oct
+Montana,Pulses,01-May,11-Jun,28-Aug,08-Oct
+Nebraska,Pulses,26-May,23-Jun,08-Sep,13-Oct
+New Mexico,Pulses,15-May,15-Jun,15-Aug,15-Oct
+New York,Pulses,01-Jun,10-Jul,01-Sep,15-Oct
+North Dakota,Pulses,15-May,08-Jun,02-Sep,15-Oct
+Utah,Pulses,10-May,01-Jun,01-Sep,20-Oct
+Washington,Pulses,10-May,20-Jun,25-Aug,25-Oct
+Wyoming,Pulses,08-May,19-Jun,31-Aug,15-Oct
+Alabama,Maize,05-Mar,18-May,21-Jul,02-Nov
+Arizona,Maize,15-Mar,01-Jun,01-Sep,01-Dec
+Arkansas,Maize,03-Apr,25-May,16-Aug,11-Oct
+California,Maize,15-Mar,15-Jul,01-Sep,01-Dec
+Colorado,Maize,15-Apr,01-Jun,01-Oct,01-Dec
+Delaware,Maize,19-Apr,28-May,10-Sep,05-Nov
+Florida,Maize,01-Mar,25-Apr,15-Jul,01-Oct
+Georgia,Maize,01-Mar,05-May,25-Jul,10-Oct
+Idaho,Maize,21-Apr,09-Jun,29-Sep,24-Nov
+Illinois,Maize,22-Apr,28-May,24-Sep,19-Nov
+Indiana,Maize,25-Apr,10-Jun,20-Sep,10-Dec
+Iowa,Maize,22-Apr,03-Jun,17-Sep,17-Nov
+Kansas,Maize,10-Apr,25-May,05-Sep,10-Nov
+Kentucky,Maize,12-Apr,08-Jun,08-Sep,15-Nov
+Louisiana,Maize,10-Mar,28-Apr,29-Jul,16-Sep
+Maryland,Maize,20-Apr,07-Jun,09-Sep,17-Nov
+Michigan,Maize,01-May,31-May,03-Oct,03-Dec
+Minnesota,Maize,24-Apr,08-Jun,29-Sep,28-Nov
+Mississippi,Maize,27-Mar,11-Jun,12-Aug,22-Oct
+Missouri,Maize,05-Apr,10-Jun,01-Sep,01-Dec
+Montana,Maize,19-Apr,08-Jun,15-Sep,15-Oct
+Nebraska,Maize,21-Apr,01-Jun,21-Sep,01-Dec
+New Jersey,Maize,07-May,28-Jun,01-Oct,28-Nov
+New Mexico,Maize,15-Apr,20-May,25-Sep,20-Nov
+New York,Maize,25-Apr,05-Jun,10-Oct,01-Dec
+North Carolina,Maize,01-Apr,20-May,20-Aug,07-Nov
+North Dakota,Maize,03-May,05-Jun,29-Sep,09-Nov
+Ohio,Maize,22-Apr,12-Jun,25-Sep,25-Nov
+Oklahoma,Maize,25-Mar,15-May,25-Aug,20-Oct
+Oregon,Maize,20-Apr,15-Jun,10-Oct,15-Dec
+Pennsylvania,Maize,30-Apr,15-Jun,25-Sep,10-Dec
+South Carolina,Maize,10-Mar,15-May,25-Jul,10-Oct
+South Dakota,Maize,01-May,11-Jun,24-Sep,30-Nov
+Tennessee,Maize,05-Apr,01-Jun,01-Sep,10-Nov
+Texas,Maize,28-Feb,15-May,16-Jul,01-Nov
+Utah,Maize,15-Apr,05-Jun,25-Sep,10-Dec
+Virginia,Maize,05-Apr,05-Jun,25-Aug,20-Nov
+Washington,Maize,15-Apr,05-Jun,05-Oct,01-Dec
+West Virginia,Maize,25-Apr,15-Jun,10-Sep,25-Nov
+Wisconsin,Maize,25-Apr,10-Jun,01-Oct,30-Nov
+Wyoming,Maize,22-Apr,10-Jun,24-Sep,05-Dec
+Alabama,Cotton,12-Apr,06-Jun,22-Sep,15-Dec
+Arizona,Cotton,15-Mar,15-May,15-Sep,25-Dec
+Arkansas,Cotton,24-Apr,31-May,22-Sep,24-Nov
+California,Cotton,01-Apr,15-May,01-Oct,15-Nov
+Florida,Cotton,01-Apr,15-Jun,15-Sep,01-Dec
+Georgia,Cotton,20-Apr,05-Jun,20-Sep,15-Dec
+Louisiana,Cotton,17-Apr,02-Jun,15-Sep,13-Nov
+Mississippi,Cotton,14-Apr,09-Jun,15-Sep,17-Nov
+Missouri,Cotton,25-Apr,01-Jun,20-Sep,20-Nov
+New Mexico,Cotton,10-Apr,20-May,10-Oct,20-Dec
+North Carolina,Cotton,21-Apr,08-Jun,27-Sep,15-Dec
+Oklahoma,Cotton,06-May,29-Jun,11-Oct,15-Dec
+South Carolina,Cotton,24-Apr,01-Jun,23-Sep,05-Dec
+Tennessee,Cotton,25-Apr,05-Jun,20-Sep,25-Nov
+Texas,Cotton,10-Mar,30-Jun,10-Aug,28-Dec
+Virginia,Cotton,10-Apr,20-May,30-Sep,10-Dec
+North Dakota,Other,08-May,10-Jun,25-Aug,13-Oct
+Alaska,Oats,05-May,05-Jun,01-Sep,10-Oct
+California,Oats,20-Feb,30-May,15-Aug,01-Oct
+Colorado,Oats,15-Mar,25-May,10-Jul,30-Sep
+Idaho,Oats,31-Mar,02-Jun,21-Jul,29-Sep
+Illinois,Oats,25-Mar,08-May,14-Jul,11-Aug
+Indiana,Oats,01-Apr,10-May,10-Jul,10-Aug
+Iowa,Oats,24-Mar,17-May,03-Jul,09-Aug
+Kansas,Oats,20-Feb,15-Apr,10-Jul,10-Aug
+Maine,Oats,07-May,09-Jun,10-Aug,10-Oct
+Michigan,Oats,15-Apr,21-May,26-Jul,31-Aug
+Minnesota,Oats,10-Apr,26-May,24-Jul,10-Sep
+Missouri,Oats,01-Mar,30-Apr,20-Jun,01-Aug
+Montana,Oats,10-Apr,03-Jun,06-Aug,26-Sep
+Nebraska,Oats,24-Mar,09-May,04-Jul,12-Aug
+New York,Oats,01-Apr,15-May,01-Aug,10-Sep
+North Dakota,Oats,22-Apr,28-May,02-Aug,10-Sep
+Ohio,Oats,03-Apr,24-May,16-Jul,22-Aug
+Oregon,Oats,15-Sep,15-Apr,10-Jul,01-Sep
+Pennsylvania,Oats,15-Apr,25-May,20-Jul,30-Aug
+South Dakota,Oats,04-Apr,21-May,10-Jul,20-Aug
+Utah,Oats,20-Mar,01-Jun,25-Jul,30-Sep
+Washington,Oats,05-Mar,20-Apr,15-Jul,10-Sep
+West Virginia,Oats,01-Apr,01-Jun,01-Jul,01-Sep
+Wisconsin,Oats,01-Apr,25-May,20-Jul,05-Sep
+Wyoming,Oats,28-Mar,01-Jun,29-Jul,26-Sep
+Arkansas,Oats,02-Oct,26-Nov,08-Jun,05-Jul
+California,Oats,15-Sep,15-Mar,15-Jun,01-Sep
+Georgia,Oats,20-Sep,10-Dec,20-May,25-Jun
+North Carolina,Oats,15-Sep,10-Dec,28-May,20-Jul
+Oklahoma,Oats,12-Sep,30-Nov,06-Jun,12-Jul
+South Carolina,Oats,23-Sep,15-Dec,25-May,03-Jul
+Texas,Oats,10-Sep,21-Dec,18-May,25-Jul
+Alabama,Groundnuts,16-Apr,06-Jun,04-Sep,01-Nov
+Florida,Groundnuts,01-Apr,15-May,15-Aug,15-Nov
+Georgia,Groundnuts,15-Apr,10-Jun,05-Sep,01-Nov
+New Mexico,Groundnuts,10-May,01-Jun,01-Oct,10-Nov
+North Carolina,Groundnuts,28-Apr,02-Jun,24-Sep,14-Nov
+Oklahoma,Groundnuts,07-May,29-Jun,29-Sep,28-Nov
+South Carolina,Groundnuts,20-Apr,05-Jun,08-Sep,10-Nov
+Texas,Groundnuts,07-May,18-Jul,07-Sep,20-Dec
+Virginia,Groundnuts,20-Apr,25-May,15-Sep,05-Nov
+Washington,Pulses,01-Apr,20-May,15-Jul,15-Sep
+Arizona,Potatoes,15-Dec,15-Feb,15-Apr,01-Jul
+Delaware,Potatoes,05-Apr,05-May,04-Jul,15-Sep
+Florida,Potatoes,15-Sep,01-Mar,15-Jan,01-Jul
+Idaho,Potatoes,14-Apr,09-Jun,01-Sep,27-Oct
+Maine,Potatoes,10-May,10-Jun,07-Sep,19-Oct
+Maryland,Potatoes,07-Apr,10-May,01-Jul,28-Aug
+Massachusetts,Potatoes,28-Apr,01-Jun,05-Aug,19-Oct
+Michigan,Potatoes,24-Apr,07-Jun,23-Jul,23-Oct
+Minnesota,Potatoes,25-Apr,14-Jun,28-Aug,21-Oct
+Missouri,Potatoes,01-Mar,05-Apr,15-Jun,25-Aug
+Montana,Potatoes,27-Apr,11-Jun,17-Sep,28-Oct
+New Jersey,Potatoes,14-Mar,30-May,21-Jun,15-Oct
+New York,Potatoes,25-Mar,15-Jun,15-Jul,05-Nov
+North Carolina,Potatoes,04-Mar,28-Apr,09-Jun,07-Aug
+North Dakota,Potatoes,05-May,01-Jun,31-Aug,12-Oct
+Ohio,Potatoes,18-Apr,04-Jun,30-Jul,25-Oct
+Oregon,Potatoes,15-Mar,15-May,15-Jul,15-Nov
+Pennsylvania,Potatoes,10-Apr,10-Jun,10-Aug,30-Oct
+Rhode Island,Potatoes,30-Apr,05-Jun,14-Aug,15-Oct
+Utah,Potatoes,25-Apr,20-Jun,25-Aug,30-Oct
+Washington,Potatoes,15-Mar,15-May,15-Jul,05-Nov
+Wisconsin,Potatoes,25-Mar,01-May,20-Jul,10-Oct
+Colorado,Potatoes,01-May,01-Jun,05-Sep,15-Oct
+New Mexico,Potatoes,20-Apr,10-May,01-Sep,20-Oct
+Colorado,Potatoes,10-Apr,25-May,01-Aug,10-Oct
+New Mexico,Potatoes,05-Mar,01-Apr,15-Jul,15-Sep
+Arkansas,Rice,07-Apr,02-Jun,26-Aug,25-Oct
+California,Rice,01-May,05-Jun,15-Sep,01-Nov
+Louisiana,Rice,20-Mar,02-Jun,22-Jul,08-Oct
+Mississippi,Rice,02-Apr,09-Jun,25-Aug,27-Oct
+Missouri,Rice,15-Apr,10-Jun,10-Sep,01-Nov
+Texas,Rice,22-Mar,26-May,22-Jul,15-Oct
+Georgia,Rye,20-Sep,05-Dec,10-May,25-Jun
+Indiana,Rye,10-Sep,30-Oct,20-Jun,25-Jul
+Kansas,Rye,01-Sep,01-Oct,10-Jun,05-Jul
+Maryland,Rye,19-Sep,17-Nov,14-Jun,25-Jul
+Minnesota,Rye,23-Aug,09-Oct,15-Jul,29-Aug
+Nebraska,Rye,30-Aug,06-Oct,30-Jun,08-Aug
+New Jersey,Rye,01-Sep,14-Nov,07-Jul,07-Aug
+New York,Rye,01-Sep,25-Oct,05-Jul,20-Jul
+North Carolina,Rye,20-Sep,05-Dec,28-May,28-Jul
+North Dakota,Rye,07-Sep,30-Sep,10-Jul,01-Aug
+Ohio,Rye,10-Sep,20-Oct,25-Jun,20-Jul
+Oklahoma,Rye,05-Sep,15-Oct,10-Jun,15-Jun
+Pennsylvania,Rye,30-Aug,30-Oct,05-Jul,10-Aug
+South Carolina,Rye,23-Sep,13-Dec,23-May,10-Jul
+South Dakota,Rye,30-Aug,07-Oct,09-Jul,15-Aug
+Texas,Rye,01-Sep,15-Nov,15-May,01-Jul
+Virginia,Rye,20-Aug,30-Nov,05-Jun,05-Jul
+Wisconsin,Rye,15-Aug,01-Oct,05-Jul,10-Aug
+Alabama,Sorghum,01-Apr,01-Jul,01-Sep,15-Dec
+Arkansas,Sorghum,06-Apr,09-Jun,24-Aug,24-Oct
+Colorado,Sorghum,10-May,01-Jul,25-Sep,25-Nov
+Georgia,Sorghum,15-Apr,05-Jul,20-Aug,25-Nov
+Illinois,Sorghum,20-May,30-Jun,27-Sep,17-Nov
+Kansas,Sorghum,10-May,05-Jul,15-Sep,30-Nov
+Kentucky,Sorghum,10-May,01-Jul,25-Sep,15-Nov
+Louisiana,Sorghum,31-Mar,23-Jun,12-Aug,10-Oct
+Mississippi,Sorghum,02-Apr,23-Jun,18-Aug,20-Oct
+Missouri,Sorghum,25-Apr,01-Jul,10-Sep,25-Nov
+Nebraska,Sorghum,11-May,19-Jun,19-Sep,17-Nov
+New Mexico,Sorghum,10-May,01-Jul,15-Oct,15-Dec
+North Carolina,Sorghum,05-May,14-Jul,14-Aug,26-Nov
+Oklahoma,Sorghum,30-Apr,05-Jul,21-Sep,06-Dec
+South Carolina,Sorghum,25-Apr,25-Jul,28-Jul,07-Dec
+South Dakota,Sorghum,14-May,02-Jul,22-Sep,16-Nov
+Tennessee,Sorghum,15-Apr,25-Jun,01-Sep,01-Nov
+Texas,Sorghum,03-Mar,05-Jul,05-Jul,26-Nov
+Alabama,Soybeans,30-Apr,03-Jul,28-Sep,08-Dec
+Arkansas,Soybeans,04-May,07-Jul,25-Sep,29-Nov
+Delaware,Soybeans,18-May,11-Jul,05-Oct,25-Nov
+Florida,Soybeans,01-May,01-Jul,01-Oct,25-Nov
+Georgia,Soybeans,05-May,05-Jul,01-Oct,15-Dec
+Illinois,Soybeans,06-May,16-Jun,23-Sep,03-Nov
+Indiana,Soybeans,05-May,20-Jun,25-Sep,05-Nov
+Iowa,Soybeans,04-May,17-Jun,21-Sep,27-Oct
+Kansas,Soybeans,10-May,05-Jul,20-Sep,15-Nov
+Kentucky,Soybeans,10-May,05-Jul,01-Oct,18-Nov
+Louisiana,Soybeans,05-May,05-Jul,15-Sep,20-Nov
+Maryland,Soybeans,11-May,16-Jul,05-Oct,01-Dec
+Michigan,Soybeans,08-May,15-Jun,30-Sep,07-Nov
+Minnesota,Soybeans,06-May,23-Jun,25-Sep,30-Oct
+Mississippi,Soybeans,10-Apr,01-Jul,15-Aug,03-Dec
+Missouri,Soybeans,05-May,10-Jul,25-Sep,25-Nov
+Nebraska,Soybeans,09-May,17-Jun,19-Sep,27-Oct
+New Jersey,Soybeans,30-May,14-Jul,01-Oct,30-Nov
+North Carolina,Soybeans,01-May,18-Jul,10-Oct,20-Dec
+North Dakota,Soybeans,12-May,06-Jun,16-Sep,22-Oct
+Ohio,Soybeans,05-May,23-Jun,21-Sep,10-Nov
+Oklahoma,Soybeans,20-Apr,09-Jul,17-Sep,09-Dec
+Pennsylvania,Soybeans,10-May,05-Jul,05-Oct,30-Nov
+South Carolina,Soybeans,10-May,11-Jul,20-Oct,30-Dec
+South Dakota,Soybeans,10-May,26-Jun,21-Sep,05-Nov
+Tennessee,Soybeans,10-May,10-Jul,05-Oct,05-Dec
+Texas,Soybeans,16-Apr,16-Jul,13-Aug,03-Dec
+Virginia,Soybeans,30-Apr,10-Jul,05-Oct,10-Dec
+Wisconsin,Soybeans,05-May,30-Jun,01-Oct,10-Nov
+California,Sugarbeets,15-Aug,30-Oct,01-Apr,15-Aug
+Colorado,Sugarbeets,25-Mar,05-May,05-Oct,10-Nov
+Idaho,Sugarbeets,24-Mar,05-May,15-Sep,10-Nov
+Michigan,Sugarbeets,25-Apr,13-May,06-Oct,05-Nov
+Minnesota,Sugarbeets,22-Apr,30-May,17-Sep,28-Oct
+Montana,Sugarbeets,09-Apr,16-May,24-Sep,02-Nov
+Nebraska,Sugarbeets,01-Apr,05-May,05-Oct,05-Nov
+New Mexico,Sugarbeets,25-Mar,05-May,05-Oct,01-Dec
+North Dakota,Sugarbeets,22-Apr,16-May,18-Sep,20-Oct
+Ohio,Sugarbeets,15-Apr,30-May,25-Sep,20-Nov
+Oregon,Sugarbeets,15-Mar,30-Mar,01-Oct,30-Oct
+Texas,Sugarbeets,27-Mar,07-May,03-Oct,24-Dec
+Washington,Sugarbeets,15-Mar,07-Apr,15-Sep,07-Nov
+Wyoming,Sugarbeets,03-Apr,11-May,21-Sep,02-Nov
+Florida,Sugarcane,15-Aug,15-Feb,01-Nov,01-Apr
+Louisiana,Sugarcane,20-Aug,13-Oct,10-Oct,16-Dec
+Kansas,Sunflower,15-May,05-Jul,25-Sep,25-Oct
+North Dakota,Sunflower,15-May,13-Jun,01-Oct,07-Nov
+Georgia,Sweet.Potatoes,01-Apr,15-May,15-Jul,20-Nov
+Louisiana,Sweet.Potatoes,05-May,14-Jul,04-Aug,24-Nov
+Mississippi,Sweet.Potatoes,21-Apr,07-Jul,12-Aug,10-Nov
+New Jersey,Sweet.Potatoes,01-May,31-May,14-Sep,14-Nov
+North Carolina,Sweet.Potatoes,05-May,14-Jul,01-Sep,20-Nov
+South Carolina,Sweet.Potatoes,11-Apr,05-Jul,20-Aug,08-Dec
+Colorado,Wheat,25-Mar,25-May,25-Jul,05-Oct
+Idaho,Wheat,21-Mar,26-May,04-Aug,29-Sep
+Minnesota,Wheat,13-Apr,03-Jun,31-Jul,30-Sep
+Montana,Wheat,08-Apr,29-May,07-Aug,27-Sep
+Nevada,Wheat,05-Apr,20-May,20-Jul,05-Sep
+North Dakota,Wheat,19-Apr,27-May,04-Aug,14-Sep
+Oregon,Wheat,01-Mar,15-Apr,01-Aug,15-Sep
+South Dakota,Wheat,03-Apr,17-May,15-Jul,30-Aug
+Utah,Wheat,20-Mar,01-May,15-Jul,05-Sep
+Washington,Wheat,01-Mar,15-May,20-Jul,15-Sep
+Wisconsin,Wheat,05-Apr,15-May,25-Jul,01-Sep
+Wyoming,Wheat,27-Mar,03-Jun,01-Aug,25-Sep
+Alabama,Wheat,02-Oct,12-Dec,01-May,01-Jul
+Arizona,Wheat,10-Nov,01-Feb,15-May,01-Jul
+Arkansas,Wheat,03-Oct,27-Nov,08-Jun,05-Jul
+California,Wheat,15-Oct,15-Feb,01-Jun,01-Aug
+Colorado,Wheat,25-Aug,10-Oct,25-Jun,10-Aug
+Delaware,Wheat,08-Oct,21-Nov,22-Jun,17-Jul
+Florida,Wheat,15-Oct,15-Dec,01-May,15-Jun
+Georgia,Wheat,05-Oct,15-Dec,20-May,30-Jun
+Idaho,Wheat,08-Sep,03-Nov,23-Jul,14-Sep
+Illinois,Wheat,29-Sep,06-Nov,22-Jun,20-Jul
+Indiana,Wheat,20-Sep,10-Nov,20-Jun,25-Jul
+Iowa,Wheat,06-Sep,30-Oct,24-Jun,07-Aug
+Kansas,Wheat,10-Sep,25-Oct,15-Jun,25-Jul
+Kentucky,Wheat,23-Sep,20-Nov,12-Jun,10-Jul
+Louisiana,Wheat,08-Oct,12-Dec,14-May,23-Jun
+Maryland,Wheat,05-Oct,19-Nov,22-Jun,20-Jul
+Michigan,Wheat,13-Sep,29-Oct,14-Jul,04-Aug
+Minnesota,Wheat,21-Aug,07-Oct,18-Jul,05-Sep
+Mississippi,Wheat,24-Sep,10-Dec,28-May,07-Jul
+Missouri,Wheat,20-Sep,20-Nov,15-Jun,20-Jul
+Montana,Wheat,07-Sep,23-Oct,28-Jul,08-Sep
+Nebraska,Wheat,30-Aug,06-Oct,26-Jun,08-Aug
+Nevada,Wheat,05-Sep,20-Oct,15-Jul,25-Aug
+New Jersey,Wheat,14-Sep,14-Nov,01-Jul,14-Aug
+New Mexico,Wheat,25-Aug,15-Oct,15-Jun,15-Jul
+New York,Wheat,10-Sep,01-Nov,15-Jul,05-Aug
+North Carolina,Wheat,20-Sep,20-Dec,29-May,25-Jul
+North Dakota,Wheat,07-Sep,30-Sep,10-Jul,01-Aug
+Ohio,Wheat,24-Sep,02-Nov,01-Jul,04-Aug
+Oklahoma,Wheat,03-Sep,02-Nov,05-Jun,05-Jul
+Oregon,Wheat,15-Sep,10-Nov,15-Jul,01-Sep
+Pennsylvania,Wheat,30-Aug,30-Oct,05-Jul,10-Aug
+South Carolina,Wheat,15-Oct,31-Dec,26-May,01-Jul
+South Dakota,Wheat,01-Sep,07-Oct,06-Jul,12-Aug
+Tennessee,Wheat,25-Sep,30-Nov,10-Jun,10-Jul
+Texas,Wheat,31-Aug,03-Dec,25-May,07-Jul
+Utah,Wheat,20-Aug,20-Oct,10-Jul,25-Aug
+Virginia,Wheat,25-Sep,30-Nov,05-Jun,25-Jul
+Washington,Wheat,01-Sep,30-Oct,15-Jul,05-Sep
+West Virginia,Wheat,20-Sep,20-Nov,25-Jun,10-Aug
+Wisconsin,Wheat,05-Sep,05-Oct,15-Jul,20-Aug
+Wyoming,Wheat,23-Aug,02-Oct,13-Jul,03-Sep
+Andhra Pradesh,Rice,14-May,17-Jun,27-Aug,30-Sep
+Andhra Pradesh,Rice,11-Jun,22-Jul,05-Nov,02-Dec
+Andhra Pradesh,Rice,28-May,24-Jun,22-Oct,11-Nov
+Andhra Pradesh,Rice,28-May,01-Jul,17-Sep,14-Oct
+Andhra Pradesh,Rice,02-Jul,19-Aug,03-Dec,30-Dec
+Andhra Pradesh,Rice,21-May,12-Aug,15-Oct,07-Jan
+Andhra Pradesh,Rice,07-May,24-Jun,15-Oct,18-Nov
+Andhra Pradesh,Millet,11-Jun,22-Jul,10-Sep,21-Oct
+Andhra Pradesh,Millet,21-May,08-Jul,27-Aug,07-Oct
+Andhra Pradesh,Millet,04-Jun,15-Jul,20-Aug,30-Sep
+Andhra Pradesh,Millet,07-May,01-Jul,06-Aug,30-Sep
+Andhra Pradesh,Sorghum,04-Jun,15-Jul,17-Sep,04-Nov
+Andhra Pradesh,Sorghum,02-Jul,29-Jul,22-Oct,25-Nov
+Andhra Pradesh,Sorghum,11-Jun,08-Jul,10-Sep,30-Sep
+Andhra Pradesh,Sorghum,04-Jun,08-Jul,24-Sep,28-Oct
+Andhra Pradesh,Sorghum,22-Oct,25-Nov,05-Feb,11-Mar
+Andhra Pradesh,Sorghum,17-Sep,14-Oct,01-Jan,28-Jan
+Andhra Pradesh,Groundnuts,25-Jun,12-Aug,15-Oct,02-Dec
+Andhra Pradesh,Groundnuts,25-Jun,19-Aug,08-Oct,02-Dec
+Andhra Pradesh,Groundnuts,11-Jun,22-Jul,01-Oct,18-Nov
+Andhra Pradesh,Groundnuts,23-Apr,17-Jun,06-Aug,30-Sep
+Andhra Pradesh,Groundnuts,05-Nov,23-Dec,26-Feb,15-Apr
+Andhra Pradesh,Groundnuts,10-Sep,07-Oct,17-Dec,21-Jan
+Andhra Pradesh,Cotton,02-Jul,26-Aug,15-Jan,04-Mar
+Andhra Pradesh,Cotton,04-Jun,12-Aug,12-Nov,28-Jan
+Andhra Pradesh,Cotton,12-Feb,01-Apr,16-Jul,26-Aug
+Assam,Rice,19-Feb,08-Apr,11-Jun,12-Aug
+Assam,Rice,12-Mar,22-Apr,09-Jul,02-Sep
+Assam,Rice,04-Jun,22-Jul,24-Sep,09-Dec
+Assam,Rice,28-May,15-Jul,08-Oct,02-Dec
+Assam,Rice,21-May,08-Jul,15-Oct,25-Nov
+Assam,Rice,11-Jun,22-Jul,29-Oct,09-Dec
+Assam,Rice,25-Jun,05-Aug,12-Nov,09-Dec
+Assam,Rice,21-May,24-Jun,15-Oct,18-Nov
+Assam,Rice,29-Oct,02-Dec,12-Mar,22-Apr
+Assam,Sugarcane,26-Feb,01-Apr,12-Nov,07-Jan
+Assam,Other,20-Aug,23-Sep,26-Nov,30-Dec
+Assam,Other,08-Oct,11-Nov,08-Jan,11-Feb
+Assam,Other,15-Oct,02-Dec,15-Jan,25-Feb
+Assam,Rapeseed,15-Oct,02-Dec,15-Jan,25-Feb
+Assam,Other,07-May,10-Jun,20-Aug,23-Sep
+Gujarat,Millet,11-Jun,08-Jul,10-Sep,21-Oct
+Gujarat,Millet,04-Jun,05-Aug,01-Oct,28-Oct
+Gujarat,Millet,11-Jun,22-Jul,10-Sep,21-Oct
+Gujarat,Cotton,28-May,08-Jul,19-Nov,04-Feb
+Gujarat,Cotton,28-May,08-Jul,19-Nov,28-Jan
+Gujarat,Wheat,29-Oct,16-Dec,26-Feb,22-Apr
+Gujarat,Wheat,05-Nov,02-Dec,05-Mar,15-Apr
+Gujarat,Rice,28-May,08-Jul,24-Sep,04-Nov
+Gujarat,Groundnuts,28-May,22-Jul,17-Sep,11-Nov
+Gujarat,Maize,11-Jun,15-Jul,24-Sep,04-Nov
+Gujarat,Pulses,12-Nov,02-Dec,19-Feb,25-Mar
+Gujarat,Other,15-Oct,11-Nov,15-Jan,11-Feb
+Gujarat,Other,04-Jun,15-Jul,26-Nov,30-Dec
+Gujarat,Other,02-Jul,05-Aug,05-Nov,09-Dec
+Gujarat,Pulses,14-May,05-Aug,26-Nov,14-Jan
+Himachal Pradesh,Wheat,22-Oct,16-Dec,26-Mar,20-May
+Himachal Pradesh,Wheat,19-Nov,30-Dec,16-Apr,27-May
+Himachal Pradesh,Wheat,03-Dec,07-Jan,16-Apr,27-May
+Himachal Pradesh,Wheat,22-Oct,09-Dec,23-Apr,20-May
+Himachal Pradesh,Other,01-Jan,28-Jan,16-Apr,13-May
+Himachal Pradesh,Pulses,09-Apr,20-May,13-Aug,30-Sep
+Himachal Pradesh,Pulses,02-Jul,29-Jul,22-Oct,04-Nov
+Himachal Pradesh,Pulses,29-Oct,02-Dec,23-Apr,03-Jun
+Himachal Pradesh,Maize,04-Jun,01-Jul,17-Sep,14-Oct
+Himachal Pradesh,Maize,04-Jun,01-Jul,08-Oct,11-Nov
+Himachal Pradesh,Barley,03-Sep,07-Oct,08-Jan,04-Mar
+Himachal Pradesh,Barley,02-Apr,27-May,16-Jul,12-Aug
+Himachal Pradesh,Potatoes,09-Apr,27-May,10-Sep,28-Oct
+Himachal Pradesh,Potatoes,12-Mar,29-Apr,13-Aug,07-Oct
+Himachal Pradesh,Rice,18-Jun,22-Jul,15-Oct,18-Nov
+Himachal Pradesh,Pulses,05-Feb,04-Mar,30-Apr,20-May
+Himachal Pradesh,Pulses,08-Oct,11-Nov,02-Apr,29-Apr
+Karnataka,Rice,28-May,15-Jul,29-Oct,30-Dec
+Karnataka,Rice,25-Jun,19-Aug,09-Nov,20-Dec
+Karnataka,Rice,24-Dec,14-Jan,28-May,01-Jul
+Karnataka,Rice,04-Jun,01-Jul,05-Nov,30-Dec
+Karnataka,Rice,14-May,01-Jul,24-Sep,11-Nov
+Karnataka,Rice,28-May,05-Aug,26-Nov,04-Feb
+Karnataka,Rice,21-May,15-Jul,22-Oct,02-Dec
+Karnataka,Rice,07-May,24-Jun,12-Nov,30-Dec
+Karnataka,Rice,18-Jun,12-Aug,26-Nov,30-Dec
+Karnataka,Rice,14-May,08-Jul,01-Oct,18-Nov
+Karnataka,Wheat,08-Oct,25-Nov,19-Feb,01-Apr
+Karnataka,Wheat,01-Oct,28-Oct,29-Jan,04-Mar
+Karnataka,Wheat,08-Oct,04-Nov,05-Feb,18-Mar
+Karnataka,Cotton,04-Jun,15-Jul,05-Nov,30-Dec
+Karnataka,Cotton,07-May,29-Jul,15-Oct,16-Dec
+Karnataka,Cotton,06-Aug,30-Sep,01-Jan,11-Feb
+Karnataka,Cotton,04-Jun,15-Jul,01-Jan,11-Feb
+Karnataka,Groundnuts,17-Dec,14-Jan,09-Apr,13-May
+Karnataka,Groundnuts,07-May,01-Jul,24-Sep,04-Nov
+Karnataka,Groundnuts,28-May,01-Jul,17-Sep,04-Nov
+Karnataka,Groundnuts,28-May,01-Jul,24-Sep,04-Nov
+Karnataka,Sorghum,03-Sep,04-Nov,01-Jan,18-Mar
+Karnataka,Sorghum,14-May,01-Jul,10-Sep,04-Nov
+Karnataka,Sugarcane,21-May,02-Sep,23-Jul,14-Oct
+Karnataka,Sugarcane,15-Jan,11-Mar,05-Mar,10-Jun
+Kerala,Rice,23-Apr,17-Jun,20-Aug,21-Oct
+Kerala,Rice,02-Apr,27-May,06-Aug,30-Sep
+Kerala,Rice,23-Apr,27-May,20-Aug,30-Sep
+Kerala,Rice,20-Aug,14-Oct,03-Dec,25-Feb
+Kerala,Rice,17-Sep,21-Oct,15-Jan,18-Feb
+Kerala,Rice,06-Aug,30-Sep,10-Dec,04-Feb
+Kerala,Rice,10-Dec,28-Jan,16-Apr,27-May
+Kerala,Pulses,05-Nov,02-Dec,29-Jan,25-Feb
+Kerala,Other,30-Apr,03-Jun,22-Jan,18-Feb
+Maharashtra,Sorghum,14-May,08-Jul,01-Oct,04-Nov
+Maharashtra,Sorghum,11-Jun,15-Jul,01-Oct,04-Nov
+Maharashtra,Sorghum,28-May,15-Jul,01-Oct,18-Nov
+Maharashtra,Sorghum,11-Jun,15-Jul,01-Oct,21-Oct
+Maharashtra,Sorghum,28-May,22-Jul,17-Sep,18-Nov
+Maharashtra,Sorghum,27-Aug,07-Oct,24-Dec,18-Mar
+Maharashtra,Sorghum,24-Sep,11-Nov,22-Jan,11-Mar
+Maharashtra,Sorghum,03-Sep,07-Oct,29-Jan,18-Mar
+Maharashtra,Wheat,29-Oct,02-Dec,05-Mar,08-Apr
+Maharashtra,Wheat,22-Oct,02-Dec,26-Feb,15-Apr
+Maharashtra,Wheat,05-Nov,02-Dec,26-Mar,06-May
+Maharashtra,Wheat,29-Oct,16-Dec,19-Mar,29-Apr
+Maharashtra,Cotton,30-Apr,08-Jul,15-Oct,11-Feb
+Maharashtra,Cotton,11-Jun,15-Jul,19-Nov,07-Jan
+Maharashtra,Cotton,04-Jun,22-Jul,05-Nov,14-Jan
+Maharashtra,Cotton,14-May,01-Jul,22-Oct,09-Dec
+Maharashtra,Groundnuts,04-Jun,08-Jul,08-Oct,18-Nov
+Maharashtra,Groundnuts,04-Jun,12-Aug,10-Sep,02-Dec
+Maharashtra,Groundnuts,10-Dec,18-Feb,19-Mar,03-Jun
+Maharashtra,Pulses,15-Oct,02-Dec,12-Feb,25-Mar
+Maharashtra,Pulses,01-Oct,18-Nov,01-Jan,25-Feb
+Maharashtra,Pulses,08-Oct,02-Dec,15-Jan,18-Mar
+Maharashtra,Rice,14-May,24-Jun,08-Oct,25-Nov
+Maharashtra,Rice,18-Jun,29-Jul,29-Oct,02-Dec
+Maharashtra,Other,10-Sep,07-Oct,24-Dec,11-Feb
+Maharashtra,Other,10-Sep,07-Oct,24-Dec,25-Feb
+Maharashtra,Millet,28-May,29-Jul,03-Sep,14-Oct
+Maharashtra,Millet,11-Jun,05-Aug,17-Sep,21-Oct
+Maharashtra,Pulses,04-Jun,22-Jul,03-Dec,21-Jan
+Maharashtra,Pulses,28-May,01-Jul,05-Nov,28-Jan
+Maharashtra,Sunflower,18-Jun,29-Jul,08-Oct,18-Nov
+Maharashtra,Soybeans,11-Jun,15-Jul,15-Oct,25-Nov
+Maharashtra,Sugarcane,25-Jun,07-Oct,04-Jun,26-Aug
+Orissa,Rice,18-Jun,15-Jul,29-Oct,16-Dec
+Orissa,Rice,11-Jun,22-Jul,17-Sep,04-Nov
+Orissa,Rice,21-May,08-Jul,15-Oct,16-Dec
+Orissa,Rice,28-May,08-Jul,01-Oct,28-Oct
+Orissa,Rice,04-Jun,29-Jul,05-Nov,23-Dec
+Orissa,Rice,21-May,24-Jun,17-Sep,11-Nov
+Orissa,Rice,21-May,24-Jun,12-Nov,09-Dec
+Orissa,Rice,04-Jun,15-Jul,29-Oct,16-Dec
+Orissa,Rice,26-Nov,23-Dec,26-Mar,29-Apr
+Orissa,Groundnuts,22-Oct,25-Nov,29-Jan,04-Mar
+Orissa,Groundnuts,03-Dec,07-Jan,09-Apr,06-May
+Orissa,Groundnuts,28-May,24-Jun,10-Sep,21-Oct
+Orissa,Other,29-Oct,02-Dec,08-Jan,11-Feb
+Orissa,Other,08-Oct,18-Nov,17-Dec,21-Jan
+Orissa,Other,10-Sep,14-Oct,17-Dec,14-Jan
+Orissa,Maize,04-Jun,15-Jul,10-Sep,14-Oct
+Orissa,Maize,04-Jun,01-Jul,20-Aug,16-Sep
+Orissa,Pulses,24-Sep,11-Nov,17-Dec,21-Jan
+Orissa,Pulses,08-Oct,18-Nov,08-Jan,18-Feb
+Orissa,Pulses,06-Aug,02-Sep,15-Oct,18-Nov
+Orissa,Millet,28-May,17-Jun,27-Aug,30-Sep
+Rajasthan,Millet,18-Jun,22-Jul,10-Sep,21-Oct
+Rajasthan,Millet,25-Jun,19-Jul,14-Sep,21-Oct
+Rajasthan,Millet,02-Jul,22-Jul,24-Sep,04-Nov
+Rajasthan,Millet,25-Jun,15-Jul,01-Oct,21-Oct
+Rajasthan,Millet,25-Jun,15-Jul,24-Sep,21-Oct
+Rajasthan,Millet,02-Jul,15-Jul,17-Sep,21-Oct
+Rajasthan,Millet,18-Jun,15-Jul,01-Oct,21-Oct
+Rajasthan,Millet,11-Jun,08-Jul,27-Aug,30-Sep
+Rajasthan,Millet,11-Jun,08-Jul,17-Sep,07-Oct
+Rajasthan,Wheat,05-Nov,25-Nov,05-Mar,25-Mar
+Rajasthan,Wheat,12-Nov,16-Dec,12-Mar,08-Apr
+Rajasthan,Wheat,05-Nov,25-Nov,12-Feb,04-Mar
+Rajasthan,Wheat,05-Nov,02-Dec,26-Feb,25-Mar
+Rajasthan,Wheat,12-Nov,02-Dec,05-Mar,25-Mar
+Rajasthan,Wheat,05-Nov,02-Dec,05-Mar,25-Mar
+Rajasthan,Other,01-Oct,21-Oct,22-Jan,11-Feb
+Rajasthan,Other,01-Oct,04-Nov,22-Jan,11-Feb
+Rajasthan,Other,01-Oct,04-Nov,22-Jan,11-Feb
+Rajasthan,Other,08-Oct,28-Oct,22-Jan,11-Feb
+Rajasthan,Sorghum,11-Jun,01-Jul,03-Sep,23-Sep
+Rajasthan,Sorghum,25-Jun,15-Jul,08-Oct,11-Nov
+Rajasthan,Sorghum,25-Jun,15-Jul,24-Sep,21-Oct
+Rajasthan,Pulses,08-Oct,28-Oct,12-Feb,18-Mar
+Rajasthan,Pulses,15-Oct,04-Nov,12-Feb,11-Mar
+Rajasthan,Pulses,15-Oct,28-Oct,12-Feb,04-Mar
+Rajasthan,Groundnuts,25-Jun,15-Jul,17-Sep,14-Oct
+Rajasthan,Rice,23-Jul,12-Aug,29-Oct,25-Nov
+Tamil Nadu,Rice,11-Jun,22-Jul,17-Sep,25-Nov
+Tamil Nadu,Rice,09-Apr,17-Jun,23-Jul,23-Sep
+Tamil Nadu,Rice,30-Apr,01-Jul,13-Aug,14-Oct
+Tamil Nadu,Rice,16-Jul,26-Aug,19-Nov,07-Jan
+Tamil Nadu,Rice,04-Jun,01-Jul,10-Sep,07-Oct
+Tamil Nadu,Rice,09-Apr,17-Jun,16-Jul,23-Sep
+Tamil Nadu,Rice,30-Apr,29-Jul,06-Aug,04-Nov
+Tamil Nadu,Rice,03-Sep,28-Oct,08-Jan,11-Mar
+Tamil Nadu,Rice,03-Sep,28-Oct,01-Jan,11-Mar
+Tamil Nadu,Rice,06-Aug,16-Sep,17-Dec,21-Jan
+Tamil Nadu,Rice,30-Jul,07-Oct,17-Dec,18-Feb
+Tamil Nadu,Rice,03-Aug,14-Oct,17-Dec,22-Feb
+Tamil Nadu,Rice,13-Aug,28-Oct,24-Dec,11-Mar
+Tamil Nadu,Rice,06-Aug,21-Oct,17-Dec,25-Feb
+Tamil Nadu,Rice,06-Aug,14-Oct,10-Dec,18-Feb
+Tamil Nadu,Rice,11-Jun,26-Aug,22-Oct,07-Jan
+Tamil Nadu,Rice,24-Dec,21-Jan,09-Apr,29-Apr
+Tamil Nadu,Rice,17-Dec,21-Jan,09-Apr,20-May
+Tamil Nadu,Rice,19-Feb,08-Apr,04-Jun,15-Jul
+Tamil Nadu,Cotton,17-Sep,14-Oct,22-Jan,11-Mar
+Tamil Nadu,Cotton,30-Jul,14-Oct,19-Nov,04-Mar
+Tamil Nadu,Cotton,30-Jul,30-Sep,24-Dec,18-Feb
+Tamil Nadu,Cotton,10-Dec,18-Feb,30-Apr,08-Jul
+Tamil Nadu,Cotton,15-Jan,25-Mar,28-May,12-Aug
+Tamil Nadu,Cotton,03-Sep,30-Sep,10-Dec,18-Feb
+Tamil Nadu,Cotton,13-Aug,14-Oct,10-Dec,04-Mar
+Tamil Nadu,Millet,09-Apr,27-May,09-Jul,19-Aug
+Tamil Nadu,Millet,11-Jun,29-Jul,03-Sep,28-Oct
+Tamil Nadu,Millet,03-Sep,07-Oct,03-Dec,07-Jan
+Tamil Nadu,Millet,15-Oct,18-Nov,08-Jan,18-Feb
+Tamil Nadu,Millet,12-Feb,15-Apr,07-May,08-Jul
+Tamil Nadu,Sorghum,09-Jul,09-Sep,22-Oct,07-Jan
+Tamil Nadu,Sorghum,02-Jul,23-Sep,05-Nov,07-Jan
+Tamil Nadu,Sorghum,09-Jul,09-Sep,03-Dec,28-Jan
+Tamil Nadu,Millet,10-Sep,21-Oct,10-Dec,28-Jan
+Tamil Nadu,Millet,19-Nov,11-Feb,12-Mar,27-May
+Tamil Nadu,Groundnuts,04-Jun,08-Jul,10-Sep,21-Oct
+Tamil Nadu,Groundnuts,02-Jul,02-Sep,22-Oct,16-Dec
+Tamil Nadu,Sorghum,03-Sep,07-Oct,03-Dec,21-Jan
+Tamil Nadu,Pulses,02-Jul,16-Sep,24-Sep,09-Dec
+Tamil Nadu,Sugarcane,29-Jan,29-Apr,08-Jan,08-Apr
+West Bengal,Rice,18-Jun,22-Jul,29-Oct,09-Dec
+West Bengal,Rice,25-Jun,29-Jul,29-Oct,02-Dec
+West Bengal,Rice,11-Jun,22-Jul,15-Oct,25-Nov
+West Bengal,Rice,11-Jun,22-Jul,29-Oct,02-Dec
+West Bengal,Rice,11-Jun,29-Jul,05-Nov,16-Dec
+West Bengal,Rice,26-Nov,23-Dec,26-Mar,06-May
+West Bengal,Rice,10-Dec,07-Jan,02-Apr,06-May
+West Bengal,Rice,19-Nov,23-Dec,02-Apr,27-May
+West Bengal,Rice,29-Oct,09-Dec,12-Mar,22-Apr
+West Bengal,Rice,26-Feb,29-Apr,25-Jun,15-Jul
+West Bengal,Rice,14-May,17-Jun,27-Aug,30-Sep
+West Bengal,Other,02-Apr,20-May,16-Jul,02-Sep
+West Bengal,Other,05-Mar,15-Apr,02-Jul,05-Aug
+West Bengal,Other,02-Apr,13-May,06-Aug,09-Sep
+West Bengal,Wheat,19-Nov,07-Jan,19-Mar,06-May
+West Bengal,Potatoes,12-Nov,16-Dec,19-Feb,25-Mar
+West Bengal,Other,29-Oct,09-Dec,19-Feb,18-Mar
+New South Wales,Wheat,01-Apr,30-Jun,07-Nov,31-Jan
+New South Wales,Barley,01-May,31-May,01-Oct,31-Dec
+New South Wales,Maize,01-Sep,31-Jan,01-Jan,31-Jul
+New South Wales,Oats,01-Mar,31-May,01-Oct,31-Dec
+New South Wales,Sorghum,01-Sep,31-Jan,01-Mar,30-Jun
+New South Wales,Rice,01-Oct,31-Oct,01-Mar,31-May
+New South Wales,Cotton,01-Oct,30-Nov,01-Mar,31-May
+New South Wales,Millet,01-Sep,30-Nov,01-Jan,31-May
+Queensland,Wheat,01-Apr,31-Jul,01-Oct,30-Nov
+Queensland,Barley,01-May,31-May,01-Oct,31-Dec
+Queensland,Maize,01-Sep,31-Dec,01-Mar,31-Jul
+Queensland,Oats,01-May,30-Jun,01-Oct,31-Dec
+Queensland,Sorghum,01-Sep,28-Feb,01-Mar,30-Jun
+Queensland,Groundnuts,01-Sep,31-Dec,01-Mar,30-Apr
+Queensland,Cotton,01-Oct,31-Dec,01-Mar,30-Jun
+Queensland,Millet,01-Oct,30-Nov,01-Apr,31-May
+South Australia,Wheat,01-Apr,30-Jun,01-Nov,31-Jan
+South Australia,Barley,01-May,31-Jul,01-Nov,31-Jan
+South Australia,Oats,01-Apr,30-Jun,01-Nov,31-Jan
+South Australia,Potatoes,01-Jul,31-Aug,01-Nov,31-Jan
+South Australia,Potatoes,01-Sep,31-Jan,01-Feb,30-Jun
+South Australia,Other,01-Jun,30-Jun,01-Nov,30-Nov
+Victoria,Wheat,01-May,31-Jul,01-Dec,31-Jan
+Victoria,Barley,01-May,31-Jul,01-Dec,31-Jan
+Victoria,Maize,01-Oct,30-Nov,01-May,30-Jun
+Victoria,Oats,01-Apr,30-Jun,01-Nov,31-Jan
+Victoria,Potatoes,01-Jul,31-Aug,01-Nov,31-Jan
+Victoria,Potatoes,01-Sep,31-Jan,01-Feb,30-Jun
+Victoria,Millet,01-Oct,11-Dec,01-Mar,30-Apr
+Victoria,Other,01-Jun,30-Jun,01-Nov,30-Nov
+Western Australia,Wheat,01-May,30-Jun,01-Nov,31-Jan
+Western Australia,Barley,01-Apr,30-Jun,01-Nov,31-Dec
+Western Australia,Maize,01-Oct,30-Nov,01-Apr,30-Apr
+Western Australia,Oats,01-Apr,30-Jun,01-Nov,31-Dec
+Western Australia,Sorghum,01-Oct,30-Nov,01-Apr,30-Apr
+Western Australia,Rice,01-Nov,30-Nov,01-May,31-May
+Western Australia,Cotton,01-Nov,28-Feb,01-May,14-Sep
+Western Australia,Millet,01-Oct,30-Nov,01-Apr,30-Apr
+Altai Krai,Wheat,10-May,21-May,,
+Altai Krai,Barley,21-May,31-May,,
+Altai Krai,Oats,01-May,11-May,,
+Altai Krai,Rye,10-Aug,31-Aug,,
+Altai Krai,Millet,21-May,31-May,,
+Altai Krai,Other,21-May,10-Jun,,
+Bashkir ASSR,Wheat,20-Aug,31-Aug,,
+Bashkir ASSR,Rye,20-Aug,31-Aug,,
+Bashkir ASSR,Wheat,01-May,21-May,,
+Bashkir ASSR,Barley,10-May,21-May,,
+Bashkir ASSR,Oats,10-May,21-May,,
+Central and Western Ukraine,Wheat,20-Aug,10-Sep,,
+Central and Western Ukraine,Rye,20-Aug,09-Sep,,
+Central and Western Ukraine,Barley,01-Apr,20-Apr,,
+Central and Western Ukraine,Oats,01-Apr,20-Apr,,
+Central and Western Ukraine,Maize,01-May,21-May,,
+Central and Western Ukraine,Other,10-May,31-May,,
+Central and Western Ukraine,Millet,01-May,20-May,,
+Chelyabinsk,Wheat,01-May,10-May,,
+Chelyabinsk,Rye,10-Aug,31-Aug,,
+Chelyabinsk,Barley,10-May,21-May,,
+Chelyabinsk,Oats,01-May,20-May,,
+Eastern and Southern Ukraine,Wheat,10-Aug,31-Aug,,
+Eastern and Southern Ukraine,Rye,20-Aug,10-Sep,,
+Eastern and Southern Ukraine,Barley,20-Mar,20-Apr,,
+Eastern and Southern Ukraine,Oats,01-Apr,20-Apr,,
+Eastern and Southern Ukraine,Maize,20-Apr,11-May,,
+Eastern and Southern Ukraine,Millet,20-Apr,21-May,,
+Kirovohrad,Wheat,01-Sep,10-Sep,,
+Kirovohrad,Barley,01-Apr,20-Apr,,
+Kirovohrad,Oats,10-Apr,30-Apr,,
+Kirovohrad,Maize,20-Apr,11-May,,
+Kursk,Wheat,20-Aug,10-Sep,,
+Kursk,Rye,10-Aug,31-Aug,,
+Kursk,Barley,20-Apr,10-May,,
+Kursk,Oats,20-Apr,10-May,,
+Northeastern Ukraine,Wheat,20-Aug,09-Sep,,
+Northeastern Ukraine,Rye,20-Aug,10-Sep,,
+Northeastern Ukraine,Barley,10-Apr,20-Apr,,
+Northeastern Ukraine,Oats,10-Apr,20-Apr,,
+Northeastern Ukraine,Maize,01-May,20-May,,
+Northeastern Ukraine,Other,20-May,31-May,,
+Northeastern Ukraine,Millet,10-May,20-May,,
+Novosibirsk and Omsk,Wheat,20-May,31-May,,
+Novosibirsk and Omsk,Barley,01-Jun,10-Jun,,
+Novosibirsk and Omsk,Oats,10-May,21-May,,
+Novosibirsk and Omsk,Rye,20-Aug,10-Sep,,
+Orenburg,Wheat,20-Apr,10-May,,
+Orenburg,Rye,20-Aug,31-Aug,,
+Orenburg,Barley,10-Apr,30-Apr,,
+Orenburg,Oats,01-May,10-May,,
+Rostov,Wheat,20-Aug,10-Sep,,
+Rostov,Barley,01-Apr,20-Apr,,
+Rostov,Oats,10-Apr,20-Apr,,
+Rostov,Maize,20-Apr,30-Apr,,
+Rostov,Millet,01-May,10-May,,
+Saratov,Wheat,01-Sep,20-Sep,,
+Saratov,Wheat,20-Apr,10-May,,
+Saratov,Rye,20-Aug,31-Aug,,
+Saratov,Barley,09-Apr,30-Apr,,
+Saratov,Oats,01-May,10-May,,
+Southern Ukraine,Wheat,01-Sep,10-Sep,,
+Southern Ukraine,Rye,10-Sep,30-Sep,,
+Southern Ukraine,Barley,11-Mar,31-Mar,,
+Southern Ukraine,Oats,20-Mar,31-Mar,,
+Southern Ukraine,Maize,20-Apr,30-Apr,,
+Southern Ukraine,Millet,20-Apr,11-May,,
+Stavropol Krai,Wheat,10-Sep,30-Sep,,
+Stavropol Krai,Barley,20-Mar,10-Apr,,
+Stavropol Krai,Oats,20-Mar,10-Apr,,
+Stavropol Krai,Maize,20-Apr,10-May,,
+Stavropol Krai,Millet,20-Apr,10-May,,
+Voronezh,Wheat,21-Aug,31-Aug,,
+Voronezh,Rye,21-Aug,31-Aug,,
+Voronezh,Barley,10-Apr,20-Apr,,
+Voronezh,Oats,10-Apr,30-Apr,,
+Voronezh,Maize,01-May,21-May,,
+Voronezh,Other,10-May,21-May,,
+Voronezh,Millet,01-May,10-May,,
+Albania,Barley,16-Oct,15-Dec,17-May,30-Jun
+Albania,Rye,16-Oct,15-Dec,17-May,30-Jun
+Albania,Oats,16-Oct,15-Dec,17-May,30-Jun
+Macedonia,Barley,16-Oct,15-Dec,16-May,31-Jul
+Macedonia,Rye,16-Oct,15-Dec,16-May,31-Jul
+Macedonia,Oats,16-Oct,15-Dec,16-May,31-Jul
+Denmark,Barley,04-Apr,30-May,21-Aug,31-Oct
+Denmark,Rapeseed,21-Sep,05-Nov,13-Jul,08-Sep
+Denmark,Wheat,21-Sep,05-Nov,13-Jul,08-Sep
+North Korea (central bowl),Wheat,01-Feb,28-Feb,01-Jun,31-Jul
+North Korea (central bowl),Barley,01-Feb,28-Feb,01-Jun,31-Jul
+North Korea (central bowl),Wheat,01-Oct,31-Oct,01-Jun,31-Jul
+North Korea (central bowl),Barley,01-Oct,31-Oct,01-Jun,31-Jul
+Argentina,Oats,01-Jul,11-Aug,01-Nov,31-Dec
+Cote d'Ivoire,Cotton,01-May,31-Jul,01-Oct,31-Dec
+Cote d'Ivoire,Groundnuts,06-May,05-Aug,06-Oct,05-Dec
+Cote d'Ivoire,Sweet.Potatoes,01-Jun,30-Sep,01-Oct,28-Feb
+Ethiopia,Cotton,26-May,26-Jul,25-Nov,24-Jan
+Ethiopia,Other,26-May,26-Jul,25-Sep,25-Nov
+Ethiopia,Other,01-Jun,31-Jul,01-Nov,31-Dec
+Ethiopia,Other,01-Jun,31-Jul,01-Nov,31-Dec
+Ethiopia,Other,01-Jun,31-Jul,01-Nov,31-Dec
+Ethiopia,Groundnuts,01-Jun,31-Jul,01-Nov,31-Dec
+Ethiopia,Rapeseed,01-Aug,30-Sep,01-Nov,31-Dec
+Ethiopia,Other,01-Jun,31-Jul,01-Oct,31-Dec
+Ethiopia,Sunflower,01-Jun,31-Jul,01-Nov,31-Dec
+Ethiopia,Other,01-May,31-Jul,01-Sep,30-Nov
+Ethiopia,Pulses,01-May,31-Jul,01-Oct,30-Nov
+Ethiopia,Pulses,01-Sep,31-Oct,01-Dec,31-Jan
+Ethiopia,Pulses,01-Jun,31-Aug,01-Oct,30-Nov
+Ethiopia,Potatoes,01-Jun,31-Aug,01-Oct,30-Nov
+Ethiopia,Sweet.Potatoes,01-Jun,31-Aug,01-Nov,31-Dec
+Iran,Maize,28-Mar,31-May,01-Jul,30-Sep
+Iran,Sorghum,13-Mar,12-Jun,01-Jul,30-Sep
+Iran,Cotton,21-Mar,05-Jun,05-Sep,05-Dec
+Iran,Other,01-Apr,18-Jun,01-Jul,31-Oct
+Iran,Other,01-Apr,30-Jun,01-Jul,30-Sep
+Iraq,Maize,01-Jun,30-Jun,01-Sep,16-Oct
+Iraq,Rice,16-Apr,31-May,15-Sep,15-Oct
+Iraq,Cotton,15-Mar,15-Apr,15-Aug,30-Nov
+Iraq,Other,15-May,31-May,01-Sep,30-Sep
+Kenya,Oats,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Rice,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Cotton,01-Apr,31-May,01-Oct,31-Oct
+Kenya,Cotton,01-May,31-May,01-Nov,30-Nov
+Kenya,Groundnuts,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Other,01-Apr,31-May,01-Sep,31-Oct
+Kenya,Sunflower,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Cassava,01-May,30-Jun,01-Jan,28-Feb
+Kenya,Potatoes,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Sweet.Potatoes,01-Apr,31-May,01-Oct,30-Nov
+Kenya,Sugarcane,01-Apr,31-May,01-Jun,31-Dec
+Kenya,Other,01-Mar,30-Apr,01-Jul,31-Aug
+Kenya,Other,01-Sep,31-Oct,01-Jan,28-Feb
+Nigeria,Rice,01-Jun,31-Jul,01-Nov,31-Dec
+Nigeria,Rice,01-Apr,31-May,01-Aug,31-Oct
+Nigeria,Rice,01-Nov,28-Feb,01-May,30-Jun
+Nigeria,Rice,01-Nov,31-Dec,01-Mar,30-Apr
+Nigeria,Cotton,01-Jul,31-Jul,27-Nov,28-Feb
+Nigeria,Cotton,01-Jun,31-Jul,01-Dec,27-Jan
+Nigeria,Cotton,17-May,31-Jul,01-Nov,31-Jan
+Nigeria,Groundnuts,18-May,18-Jul,01-Oct,30-Nov
+Nigeria,Groundnuts,18-Mar,17-Apr,01-Aug,31-Aug
+Nigeria,Soybeans,18-May,30-Jun,01-Oct,31-Oct
+Nigeria,Soybeans,01-Jun,30-Jun,01-Nov,30-Nov
+Nigeria,Sunflower,01-Jun,30-Jun,01-Sep,30-Sep
+Nigeria,Sweet.Potatoes,01-Jun,30-Sep,01-Oct,28-Feb
+Nigeria,Sweet.Potatoes,01-Apr,31-Aug,01-Sep,28-Feb
+Somalia,Millet,05-Apr,05-May,05-Aug,05-Sep
+Somalia,Millet,20-Oct,19-Nov,22-Mar,20-Apr
+Somalia,Rice,06-May,06-Jul,05-Aug,05-Oct
+Somalia,Cotton,01-Apr,30-Apr,16-Aug,31-Oct
+Somalia,Cotton,01-Sep,30-Sep,01-Feb,14-Feb
+Somalia,Groundnuts,01-Apr,30-Apr,01-Aug,31-Aug
+Somalia,Groundnuts,01-Oct,31-Oct,01-Feb,28-Feb
+Somalia,Other,01-Apr,30-Apr,01-Aug,31-Aug
+Somalia,Other,01-Oct,31-Oct,01-Feb,28-Feb
+Somalia,Other,01-Apr,30-Jun,01-Jul,30-Sep
+Somalia,Pulses,01-Apr,30-Apr,01-Aug,31-Aug
+Somalia,Pulses,01-Nov,30-Nov,01-Feb,28-Feb
+Somalia,Cassava,01-Apr,30-Apr,01-May,31-Mar
+Somalia,Other,01-Apr,31-Oct,01-Nov,31-Mar
+Somalia,Other,01-Apr,31-Oct,01-Nov,31-Mar
+Somalia,Sugarcane,01-Jul,30-Sep,01-Oct,30-Jun
+Somalia,Other,01-Mar,30-Apr,01-Sep,31-Oct
+Somalia,Other,01-Sep,30-Sep,01-Feb,31-Mar
+Syria,Maize,16-Mar,17-May,16-Aug,15-Sep
+Syria,Sorghum,16-Apr,31-May,16-Aug,30-Sep
+Syria,Rye,25-Sep,25-Nov,26-Apr,25-Jun
+Syria,Cotton,16-Apr,17-May,16-Aug,30-Nov
+Syria,Other,01-Jan,28-Feb,01-Jul,31-Jul
+Syria,Groundnuts,16-Apr,16-May,16-Aug,15-Sep
+Syria,Other,15-Apr,16-May,16-Aug,15-Sep
+Tanzania,Maize,15-Sep,15-Nov,01-Feb,16-Mar
+Tanzania,Millet,01-Feb,31-Mar,01-Jul,31-Aug
+Tanzania,Rice,14-Jan,16-Mar,01-Jul,31-Aug
+Tanzania,Cotton,18-Nov,31-Jan,19-Jun,31-Aug
+Tanzania,Cotton,01-Feb,04-Apr,01-Aug,31-Oct
+Tanzania,Soybeans,01-Jan,31-Jan,01-Jun,31-Jul
+Tanzania,Groundnuts,01-Apr,31-May,01-Oct,30-Nov
+Tanzania,Other,01-Dec,31-Jan,01-Jul,31-Oct
+Tanzania,Sunflower,01-Dec,31-Jan,01-Jul,31-Oct
+Tanzania,Sweet.Potatoes,01-Mar,30-Jun,01-Jul,30-Nov
+Tanzania,Other,01-Dec,31-Jan,01-May,30-Jun
+Turkey,Oats,01-Feb,30-Apr,01-Jul,31-Aug
+Turkey,Rye,01-Oct,30-Nov,01-Jul,31-Aug
+Turkey,Wheat,01-Mar,30-Apr,01-Jul,31-Aug
+Turkey,Other,01-Apr,30-Apr,01-Jul,31-Jul
+Turkey,Other,01-Apr,30-Apr,01-Jul,31-Jul
+Turkey,Other,01-Mar,30-Apr,01-Jun,31-Jul
+Turkey,Other,01-Apr,30-Apr,01-Sep,30-Sep
+Turkey,Groundnuts,01-Apr,31-May,01-Sep,31-Oct
+Turkey,Other,01-Oct,31-Oct,01-Jun,30-Jun
+Turkey,Rapeseed,01-Aug,31-Aug,01-Nov,30-Nov
+Turkey,Other,01-Mar,30-Apr,01-Sep,30-Sep
+Turkey,Soybeans,01-Apr,30-Apr,01-Aug,31-Aug
+Turkey,Sunflower,01-Apr,31-May,01-Aug,30-Sep
+Zimbabwe,Millet,01-Oct,31-Dec,01-Apr,30-Jun
+Zimbabwe,Rice,01-Oct,31-Dec,01-Apr,30-Jun
+Zimbabwe,Wheat,15-Nov,31-Dec,01-Apr,30-Jun
+Zimbabwe,Barley,01-Apr,31-May,15-Sep,15-Nov
+Zimbabwe,Cotton,01-Oct,30-Nov,01-Apr,31-May
+Zimbabwe,Groundnuts,01-Jun,17-Jul,01-Oct,31-Dec
+Zimbabwe,Sunflower,01-Nov,31-Dec,01-Apr,31-May
+Somalia,Sorghum,05-Apr,05-May,05-Aug,05-Sep
+Somalia,Sorghum,20-Oct,19-Nov,22-Mar,20-Apr
